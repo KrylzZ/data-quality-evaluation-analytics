@@ -1,0 +1,401 @@
+﻿Request_ID,Created_At,Completed_At,Category,Language,Complexity,Processing_Time_Min,Processing_Status
+REQ0301,2026-07-01 0:20,2026-07-01 0:28,Extraction,en,Low,8,Completed
+REQ0212,2026-07-01 4:57,2026-07-01 5:29,Guideline Review,vi,High,32,Completed
+REQ0321,2026-07-01 8:54,2026-07-01 8:56,Guideline Review,en,Low,2,Completed
+REQ0349,2026-07-01 11:19,2026-07-01 11:26,Extraction,vi,Low,7,Completed
+REQ0259,2026-07-01 16:51,2026-07-01 16:55,Extraction,en,Low,4,Completed
+REQ0136,2026-07-01 17:14,2026-07-01 17:24,Extraction,vi,Medium,10,Completed
+REQ0030,2026-07-02 2:17,2026-07-02 2:25,Classification,vi,Low,8,Completed
+REQ0354,2026-07-02 2:45,2026-07-02 2:54,Guideline Review,en,Medium,9,Completed
+REQ0331,2026-07-02 7:40,2026-07-02 8:06,Data Validation,vi,High,26,Completed
+REQ0274,2026-07-02 14:13,2026-07-02 14:20,Data Validation,vi,Low,7,Completed
+REQ0376,2026-07-02 19:12,2026-07-02 19:18,Extraction,vi,Low,6,Completed
+REQ0090,2026-07-02 20:32,2026-07-02 21:20,Extraction,vi,High,48,Completed
+REQ0117,2026-07-03 1:25,2026-07-03 1:34,Summarization,en,Medium,9,Completed
+REQ0122,2026-07-03 9:28,2026-07-03 9:43,Classification,vi,High,15,Completed
+REQ0197,2026-07-03 10:24,2026-07-03 10:31,Extraction,vi,Medium,7,Completed
+REQ0292,2026-07-03 16:00,2026-07-03 16:16,Data Validation,vi,Medium,16,Completed
+REQ0111,2026-07-03 18:07,2026-07-03 18:15,Summarization,en,Medium,8,Completed
+REQ0112,2026-07-04 6:50,2026-07-04 7:59,Extraction,vi,High,69,Completed
+REQ0029,2026-07-04 9:05,2026-07-04 9:09,Classification,vi,Low,4,Completed
+REQ0108,2026-07-04 10:02,2026-07-04 10:11,Summarization,vi,Medium,9,Completed
+REQ0190,2026-07-04 11:10,2026-07-04 11:24,Summarization,vi,Medium,14,Completed
+REQ0194,2026-07-04 15:31,2026-07-04 15:34,Classification,en,Low,3,Completed
+REQ0341,2026-07-05 1:40,2026-07-05 1:43,Classification,en,Low,3,Completed
+REQ0311,2026-07-05 7:22,2026-07-05 7:36,Extraction,en,Medium,14,Completed
+REQ0154,2026-07-05 8:53,2026-07-05 9:06,Data Validation,en,Medium,13,Completed
+REQ0260,2026-07-05 10:00,2026-07-05 10:07,Guideline Review,vi,Low,7,Completed
+REQ0234,2026-07-05 12:23,2026-07-05 12:26,Summarization,vi,Low,3,Completed
+REQ0221,2026-07-05 18:16,2026-07-05 18:20,Summarization,en,Low,4,Completed
+REQ0374,2026-07-05 18:38,2026-07-05 18:45,Summarization,vi,Medium,7,Completed
+REQ0048,2026-07-06 0:55,2026-07-06 1:12,Extraction,vi,Medium,17,Completed
+REQ0098,2026-07-06 16:54,2026-07-06 17:32,Summarization,en,High,38,Completed
+REQ0081,2026-07-06 19:28,2026-07-06 19:31,Extraction,vi,Low,3,Completed
+REQ0139,2026-07-07 3:13,2026-07-07 3:18,Summarization,en,Low,5,Completed
+REQ0348,2026-07-07 6:31,2026-07-07 6:36,Extraction,vi,Low,5,Completed
+REQ0068,2026-07-07 16:58,2026-07-07 17:06,Classification,en,Low,8,Completed
+REQ0120,2026-07-07 17:25,2026-07-07 17:32,Data Validation,vi,Low,7,Completed
+REQ0075,2026-07-07 23:21,2026-07-08 0:10,Summarization,en,Low,49,Completed
+REQ0361,2026-07-08 2:00,2026-07-08 2:15,Extraction,vi,High,15,Completed
+REQ0088,2026-07-08 10:13,2026-07-08 10:26,Guideline Review,vi,Medium,13,Completed
+REQ0180,2026-07-08 14:03,2026-07-08 14:43,Guideline Review,vi,High,40,Completed
+REQ0065,2026-07-09 2:07,2026-07-09 2:24,Data Validation,vi,Medium,17,Completed
+REQ0270,2026-07-09 18:46,2026-07-09 18:53,Extraction,en,Low,7,Completed
+REQ0106,2026-07-10 0:21,2026-07-10 0:23,Classification,en,Low,2,Completed
+REQ0275,2026-07-10 8:46,2026-07-10 8:51,Guideline Review,vi,Low,5,Completed
+REQ0310,2026-07-10 20:10,2026-07-10 20:21,Classification,vi,Medium,11,Completed
+REQ0051,2026-07-11 1:21,2026-07-11 1:29,Extraction,vi,Low,8,Completed
+REQ0013,2026-07-11 5:06,2026-07-11 5:13,Classification,en,Low,7,Completed
+REQ0028,2026-07-11 5:39,2026-07-11 5:43,Data Validation,vi,Low,4,Completed
+REQ0158,2026-07-11 7:22,2026-07-11 7:34,Data Validation,vi,Medium,12,Completed
+REQ0143,2026-07-11 8:03,2026-07-11 8:06,Guideline Review,en,Low,3,Completed
+REQ0189,2026-07-11 10:39,2026-07-11 10:50,Extraction,vi,Medium,11,Completed
+REQ0067,2026-07-11 14:49,2026-07-11 14:52,Extraction,vi,Low,3,Completed
+REQ0011,2026-07-11 21:37,2026-07-11 21:50,Classification,en,Medium,13,Completed
+REQ0121,2026-07-12 7:12,2026-07-12 7:20,Classification,vi,Medium,8,Completed
+REQ0035,2026-07-12 18:19,2026-07-12 18:31,Data Validation,en,Medium,12,Completed
+REQ0291,2026-07-12 22:01,2026-07-12 22:05,Guideline Review,en,Low,4,Completed
+REQ0363,2026-07-13 21:12,2026-07-13 21:49,Guideline Review,vi,High,37,Completed
+REQ0237,2026-07-13 23:48,2026-07-13 23:59,Data Validation,en,Medium,11,Completed
+REQ0102,2026-07-14 16:31,2026-07-14 16:38,Classification,vi,Low,7,Completed
+REQ0167,2026-07-15 8:42,2026-07-15 8:57,Guideline Review,en,High,15,Completed
+REQ0334,2026-07-15 12:53,2026-07-15 12:56,Guideline Review,vi,Low,3,Completed
+REQ0145,2026-07-15 19:19,2026-07-15 19:22,Summarization,vi,Low,3,Completed
+REQ0061,2026-07-16 0:30,2026-07-16 0:36,Data Validation,vi,Low,6,Completed
+REQ0389,2026-07-16 4:14,2026-07-16 4:22,Classification,vi,Low,8,Completed
+REQ0225,2026-07-16 5:02,2026-07-16 5:06,Extraction,vi,Low,4,Completed
+REQ0177,2026-07-16 10:03,2026-07-16 10:10,Classification,vi,Low,7,Completed
+REQ0126,2026-07-16 15:40,2026-07-16 15:42,Guideline Review,vi,Low,2,Completed
+REQ0100,2026-07-16 16:35,2026-07-16 16:47,Data Validation,en,Medium,12,Completed
+REQ0071,2026-07-17 2:35,2026-07-17 2:48,Extraction,vi,Medium,13,Completed
+REQ0226,2026-07-17 2:46,2026-07-17 2:53,Summarization,vi,Low,7,Completed
+REQ0224,2026-07-17 8:09,2026-07-17 8:17,Extraction,vi,Medium,8,Completed
+REQ0267,2026-07-17 8:33,2026-07-17 8:50,Guideline Review,vi,High,17,Completed
+REQ0360,2026-07-17 12:17,2026-07-17 12:24,Data Validation,vi,Low,7,Completed
+REQ0303,2026-07-17 18:11,2026-07-17 18:19,Summarization,vi,Medium,8,Completed
+REQ0039,2026-07-17 22:00,2026-07-17 22:04,Guideline Review,vi,Low,4,Completed
+REQ0370,2026-07-18 1:28,2026-07-18 1:35,Extraction,en,Low,7,Completed
+REQ0172,2026-07-18 16:50,2026-07-18 16:54,Extraction,vi,Low,4,Completed
+REQ0037,2026-07-18 21:13,2026-07-18 21:16,Classification,vi,Low,3,Completed
+REQ0019,2026-07-18 21:21,2026-07-18 22:19,Summarization,en,Medium,58,Completed
+REQ0053,2026-07-19 5:20,2026-07-19 5:32,Extraction,vi,Medium,12,Completed
+REQ0392,2026-07-19 13:58,2026-07-19 14:35,Guideline Review,en,High,37,Completed
+REQ0214,2026-07-19 14:35,2026-07-19 14:42,Summarization,vi,Medium,7,Completed
+REQ0216,2026-07-20 0:06,2026-07-20 0:17,Summarization,vi,Medium,11,Completed
+REQ0245,2026-07-20 15:20,2026-07-20 15:31,Data Validation,vi,Medium,11,Completed
+REQ0373,2026-07-20 18:05,2026-07-20 18:31,Summarization,vi,High,26,Completed
+REQ0097,2026-07-21 7:30,2026-07-21 7:37,Guideline Review,vi,Low,7,Completed
+REQ0157,2026-07-21 9:13,2026-07-21 9:17,Classification,vi,Low,4,Completed
+REQ0045,2026-07-21 9:27,2026-07-21 9:43,Classification,vi,Medium,16,Completed
+REQ0091,2026-07-21 12:03,2026-07-21 12:17,Classification,vi,Medium,14,Completed
+REQ0104,2026-07-21 12:45,2026-07-21 13:25,Summarization,vi,High,40,Completed
+REQ0133,2026-07-21 19:46,2026-07-21 20:04,Extraction,vi,Medium,18,Completed
+REQ0232,2026-07-22 2:00,2026-07-22 2:03,Classification,en,Low,3,Completed
+REQ0261,2026-07-22 15:19,2026-07-22 15:27,Extraction,vi,Low,8,Completed
+REQ0008,2026-07-22 18:47,2026-07-22 18:53,Extraction,vi,Medium,6,Completed
+REQ0269,2026-07-23 5:26,2026-07-23 5:53,Classification,vi,High,27,Completed
+REQ0263,2026-07-23 6:22,2026-07-23 6:58,Guideline Review,vi,High,36,Completed
+REQ0347,2026-07-23 11:46,2026-07-23 11:52,Summarization,vi,Medium,6,Completed
+REQ0014,2026-07-23 15:20,2026-07-23 15:27,Guideline Review,vi,Low,7,Completed
+REQ0308,2026-07-23 21:00,2026-07-23 21:31,Summarization,en,High,31,Completed
+REQ0211,2026-07-24 5:15,2026-07-24 5:18,Guideline Review,vi,Low,3,Completed
+REQ0054,2026-07-24 7:38,2026-07-24 7:45,Classification,vi,Low,7,Completed
+REQ0080,2026-07-25 7:30,2026-07-25 7:42,Extraction,vi,Medium,12,Completed
+REQ0006,2026-07-26 4:34,2026-07-26 4:41,Extraction,en,Low,7,Completed
+REQ0398,2026-07-26 23:58,2026-07-27 0:05,Summarization,vi,Low,7,Completed
+REQ0336,2026-07-27 13:11,2026-07-27 13:16,Extraction,vi,Low,5,Completed
+REQ0107,2026-07-27 19:23,2026-07-27 19:40,Data Validation,vi,High,17,Completed
+REQ0371,2026-07-28 9:21,2026-07-28 9:29,Classification,en,Low,8,Completed
+REQ0146,2026-07-29 3:05,2026-07-29 3:22,Summarization,vi,Medium,17,Completed
+REQ0246,2026-07-29 4:43,2026-07-29 4:46,Summarization,en,Low,3,Completed
+REQ0251,2026-07-29 14:20,2026-07-29 14:38,Data Validation,vi,Medium,18,Completed
+REQ0044,2026-07-29 21:00,2026-07-29 21:30,Data Validation,vi,High,30,Completed
+REQ0089,2026-07-30 7:32,2026-07-30 7:42,Extraction,en,Medium,10,Completed
+REQ0240,2026-07-30 13:51,2026-07-30 13:53,Classification,en,Low,2,Completed
+REQ0346,2026-07-30 17:41,2026-07-30 18:05,Guideline Review,en,High,24,Completed
+REQ0032,2026-07-31 2:46,2026-07-31 2:49,Classification,vi,Low,3,Completed
+REQ0372,2026-07-31 4:57,2026-07-31 5:25,Classification,vi,High,28,Completed
+REQ0095,2026-07-31 10:58,2026-07-31 11:08,Summarization,en,Medium,10,Completed
+REQ0397,2026-07-31 13:17,2026-07-31 13:23,Guideline Review,vi,Medium,6,Completed
+REQ0388,2026-08-01 1:12,2026-08-01 1:23,Summarization,vi,Medium,11,Completed
+REQ0287,2026-08-01 7:58,2026-08-01 8:13,Classification,vi,High,15,Completed
+REQ0046,2026-08-01 12:55,2026-08-01 13:01,Guideline Review,vi,Low,6,Completed
+REQ0289,2026-08-01 17:25,2026-08-01 17:43,Classification,vi,Medium,18,Completed
+REQ0199,2026-08-02 5:47,2026-08-02 5:55,Classification,en,Low,8,Completed
+REQ0250,2026-08-02 10:49,2026-08-02 11:24,Classification,en,High,35,Completed
+REQ0141,2026-08-02 11:21,2026-08-02 11:28,Data Validation,vi,Medium,7,Completed
+REQ0191,2026-08-02 13:02,2026-08-02 13:18,Summarization,vi,Medium,16,Completed
+REQ0201,2026-08-02 15:45,2026-08-02 16:50,Summarization,vi,High,65,Completed
+REQ0222,2026-08-03 18:01,2026-08-03 18:10,Guideline Review,en,Medium,9,Completed
+REQ0113,2026-08-03 23:33,2026-08-04 0:03,Classification,en,High,30,Completed
+REQ0153,2026-08-04 4:24,2026-08-04 4:52,Extraction,vi,High,28,Completed
+REQ0223,2026-08-04 7:46,2026-08-04 7:52,Data Validation,vi,Medium,6,Completed
+REQ0339,2026-08-04 13:35,2026-08-04 13:39,Summarization,en,Low,4,Completed
+REQ0103,2026-08-04 21:09,2026-08-04 21:16,Extraction,en,Low,7,Completed
+REQ0316,2026-08-05 4:21,2026-08-05 4:28,Summarization,en,Low,7,Completed
+REQ0278,2026-08-05 10:45,2026-08-05 10:57,Summarization,vi,Medium,12,Completed
+REQ0020,2026-08-06 20:13,2026-08-06 20:52,Guideline Review,vi,Medium,39,Completed
+REQ0249,2026-08-06 20:54,2026-08-06 21:12,Extraction,vi,Medium,18,Completed
+REQ0129,2026-08-06 23:04,2026-08-06 23:30,Guideline Review,en,High,26,Completed
+REQ0055,2026-08-07 11:55,2026-08-07 12:10,Summarization,en,Medium,15,Completed
+REQ0266,2026-08-07 21:05,2026-08-07 21:11,Guideline Review,vi,Medium,6,Completed
+REQ0202,2026-08-08 5:36,2026-08-08 5:40,Summarization,vi,Low,4,Completed
+REQ0239,2026-08-09 0:13,2026-08-09 0:31,Classification,vi,Medium,18,Completed
+REQ0369,2026-08-10 1:06,2026-08-10 1:12,Extraction,vi,Low,6,Completed
+REQ0163,2026-08-10 6:30,2026-08-10 6:32,Guideline Review,en,Low,2,Completed
+REQ0182,2026-08-10 17:19,2026-08-10 17:26,Extraction,en,Low,7,Completed
+REQ0064,2026-08-10 18:47,2026-08-10 19:05,Extraction,en,Medium,18,Completed
+REQ0166,2026-08-11 8:27,2026-08-11 8:31,Extraction,vi,Low,4,Completed
+REQ0309,2026-08-12 2:14,2026-08-12 2:30,Extraction,vi,Medium,16,Completed
+REQ0241,2026-08-12 13:29,2026-08-12 13:36,Classification,vi,Low,7,Completed
+REQ0114,2026-08-12 19:48,2026-08-12 19:50,Extraction,vi,Low,2,Completed
+REQ0094,2026-08-13 4:07,2026-08-13 5:02,Extraction,en,Medium,55,Completed
+REQ0329,2026-08-13 4:48,2026-08-13 5:05,Data Validation,vi,Medium,17,Completed
+REQ0142,2026-08-13 17:35,2026-08-13 17:43,Extraction,vi,Low,8,Completed
+REQ0394,2026-08-13 18:14,2026-08-13 18:46,Summarization,en,High,32,Completed
+REQ0009,2026-08-14 10:20,2026-08-14 10:27,Data Validation,vi,Low,7,Completed
+REQ0123,2026-08-14 10:44,2026-08-14 11:16,Classification,en,High,32,Completed
+REQ0209,2026-08-14 14:49,2026-08-14 15:20,Extraction,vi,High,31,Completed
+REQ0175,2026-08-15 8:58,2026-08-15 9:04,Classification,vi,Low,6,Completed
+REQ0074,2026-08-16 0:26,2026-08-16 0:30,Summarization,vi,Low,4,Completed
+REQ0096,2026-08-16 12:54,2026-08-16 13:27,Guideline Review,vi,High,33,Completed
+REQ0174,2026-08-16 23:05,2026-08-16 23:35,Data Validation,vi,High,30,Completed
+REQ0328,2026-08-17 3:11,2026-08-17 3:22,Guideline Review,en,Medium,11,Completed
+REQ0271,2026-08-17 4:37,2026-08-17 4:45,Summarization,en,Low,8,Completed
+REQ0040,2026-08-17 12:23,2026-08-17 12:34,Extraction,vi,Medium,11,Completed
+REQ0200,2026-08-17 13:03,2026-08-17 13:08,Data Validation,en,Low,5,Completed
+REQ0033,2026-08-17 17:24,2026-08-17 17:30,Extraction,vi,Medium,6,Completed
+REQ0268,2026-08-18 5:14,2026-08-18 5:21,Extraction,vi,Low,7,Completed
+REQ0042,2026-08-18 17:14,2026-08-18 17:41,Summarization,en,High,27,Completed
+REQ0393,2026-08-18 19:05,2026-08-18 19:13,Data Validation,vi,Medium,8,Completed
+REQ0364,2026-08-19 3:29,2026-08-19 3:58,Data Validation,vi,High,29,Completed
+REQ0149,2026-08-19 19:36,2026-08-19 19:47,Summarization,vi,Medium,11,Completed
+REQ0131,2026-08-19 21:38,2026-08-19 21:42,Guideline Review,vi,Low,4,Completed
+REQ0265,2026-08-20 4:37,2026-08-20 4:41,Data Validation,vi,Low,4,Completed
+REQ0382,2026-08-20 6:49,2026-08-20 7:14,Data Validation,en,High,25,Completed
+REQ0173,2026-08-20 16:09,2026-08-20 16:17,Extraction,vi,Low,8,Completed
+REQ0093,2026-08-20 18:26,2026-08-20 18:35,Classification,en,Medium,9,Completed
+REQ0243,2026-08-20 19:11,2026-08-20 19:32,Guideline Review,en,High,21,Completed
+REQ0390,2026-08-20 22:05,2026-08-20 22:10,Extraction,vi,Low,5,Completed
+REQ0047,2026-08-22 1:05,2026-08-22 1:13,Guideline Review,vi,Low,8,Completed
+REQ0340,2026-08-22 1:20,2026-08-22 1:42,Classification,en,High,22,Completed
+REQ0228,2026-08-22 2:33,2026-08-22 2:49,Summarization,en,Medium,16,Completed
+REQ0024,2026-08-22 23:43,2026-08-23 0:24,Data Validation,vi,Low,41,Completed
+REQ0383,2026-08-23 4:11,2026-08-23 4:16,Classification,vi,Low,5,Completed
+REQ0027,2026-08-23 10:34,2026-08-23 10:51,Extraction,vi,Medium,17,Completed
+REQ0069,2026-08-23 19:02,2026-08-23 19:16,Summarization,vi,Medium,14,Completed
+REQ0320,2026-08-24 5:04,2026-08-24 5:08,Data Validation,vi,Low,4,Completed
+REQ0087,2026-08-24 5:59,2026-08-24 6:16,Guideline Review,vi,Medium,17,Completed
+REQ0396,2026-08-24 16:40,2026-08-24 16:42,Extraction,en,Low,2,Completed
+REQ0049,2026-08-25 0:33,2026-08-25 0:35,Guideline Review,vi,Low,2,Completed
+REQ0099,2026-08-25 0:49,2026-08-25 0:56,Classification,vi,Low,7,Completed
+REQ0358,2026-08-25 1:19,2026-08-25 1:39,Extraction,vi,High,20,Completed
+REQ0242,2026-08-25 2:41,2026-08-25 3:05,Data Validation,vi,High,24,Completed
+REQ0323,2026-08-25 12:45,2026-08-25 12:52,Data Validation,vi,Medium,7,Completed
+REQ0056,2026-08-25 15:16,2026-08-25 15:19,Extraction,vi,Low,3,Completed
+REQ0215,2026-08-25 19:14,2026-08-25 19:21,Summarization,en,Medium,7,Completed
+REQ0059,2026-08-26 6:46,2026-08-26 6:57,Guideline Review,vi,Medium,11,Completed
+REQ0012,2026-08-27 3:38,2026-08-27 4:03,Extraction,vi,Low,25,Completed
+REQ0338,2026-08-27 5:11,2026-08-27 5:32,Classification,vi,High,21,Completed
+REQ0385,2026-08-27 9:23,2026-08-27 9:29,Extraction,vi,Low,6,Completed
+REQ0130,2026-08-27 15:04,2026-08-27 15:06,Guideline Review,en,Low,2,Completed
+REQ0184,2026-08-28 1:05,2026-08-28 1:17,Data Validation,vi,Medium,12,Completed
+REQ0235,2026-08-28 9:11,2026-08-28 9:19,Data Validation,vi,Low,8,Completed
+REQ0001,2026-08-28 13:34,2026-08-28 13:45,Extraction,vi,Medium,11,Completed
+REQ0156,2026-08-29 12:38,2026-08-29 12:46,Guideline Review,vi,Low,8,Completed
+REQ0307,2026-08-30 1:35,2026-08-30 1:53,Guideline Review,vi,Medium,18,Completed
+REQ0195,2026-08-30 5:46,2026-08-30 5:54,Extraction,vi,Low,8,Completed
+REQ0038,2026-08-30 18:30,2026-08-30 18:36,Extraction,en,Low,6,Completed
+REQ0238,2026-08-31 14:51,2026-08-31 15:10,Summarization,en,High,19,Completed
+REQ0185,2026-09-01 15:56,2026-09-01 16:04,Summarization,vi,Medium,8,Completed
+REQ0230,2026-09-01 21:54,2026-09-01 22:15,Summarization,vi,High,21,Completed
+REQ0276,2026-09-02 0:49,2026-09-02 0:56,Classification,vi,Low,7,Completed
+REQ0066,2026-09-02 2:44,2026-09-02 2:53,Classification,vi,Medium,9,Completed
+REQ0085,2026-09-02 3:23,2026-09-02 3:27,Summarization,vi,Low,4,Completed
+REQ0196,2026-09-02 7:35,2026-09-02 8:03,Guideline Review,en,Medium,28,Completed
+REQ0018,2026-09-02 10:39,2026-09-02 10:50,Summarization,vi,Medium,11,Completed
+REQ0203,2026-09-03 18:36,2026-09-03 19:04,Classification,vi,High,28,Completed
+REQ0128,2026-09-03 18:37,2026-09-03 18:47,Extraction,en,Medium,10,Completed
+REQ0135,2026-09-04 5:33,2026-09-04 5:48,Summarization,en,Medium,15,Completed
+REQ0367,2026-09-04 6:00,2026-09-04 6:32,Extraction,vi,High,32,Completed
+REQ0022,2026-09-04 21:31,2026-09-04 21:44,Classification,en,Medium,13,Completed
+REQ0178,2026-09-05 0:48,2026-09-05 1:17,Guideline Review,vi,High,29,Completed
+REQ0127,2026-09-05 2:23,2026-09-05 2:26,Classification,vi,Low,3,Completed
+REQ0207,2026-09-05 6:51,2026-09-05 6:57,Data Validation,vi,Medium,6,Completed
+REQ0285,2026-09-05 17:56,2026-09-05 18:11,Extraction,vi,Medium,15,Completed
+REQ0062,2026-09-06 6:12,2026-09-06 6:44,Extraction,vi,High,32,Completed
+REQ0312,2026-09-06 14:56,2026-09-06 15:41,Summarization,vi,Medium,45,Completed
+REQ0186,2026-09-06 15:26,2026-09-06 15:33,Classification,vi,Medium,7,Completed
+REQ0286,2026-09-06 19:57,2026-09-06 20:03,Extraction,vi,Low,6,Completed
+REQ0281,2026-09-06 20:54,2026-09-06 21:04,Guideline Review,en,Medium,10,Completed
+REQ0299,2026-09-07 2:34,2026-09-07 3:00,Guideline Review,vi,High,26,Completed
+REQ0116,2026-09-07 13:29,2026-09-07 13:49,Guideline Review,en,High,20,Completed
+REQ0025,2026-09-07 15:34,2026-09-07 15:40,Extraction,vi,Medium,6,Completed
+REQ0343,2026-09-07 20:03,2026-09-07 20:10,Extraction,en,Medium,7,Completed
+REQ0344,2026-09-08 7:05,2026-09-08 7:08,Data Validation,vi,Low,3,Completed
+REQ0124,2026-09-08 13:14,2026-09-08 13:29,Data Validation,vi,Medium,15,Completed
+REQ0227,2026-09-08 20:48,2026-09-08 20:55,Extraction,vi,Low,7,Completed
+REQ0273,2026-09-09 0:42,2026-09-09 0:45,Guideline Review,en,Low,3,Completed
+REQ0010,2026-09-09 3:57,2026-09-09 4:13,Classification,en,Medium,16,Completed
+REQ0399,2026-09-09 5:06,2026-09-09 5:22,Guideline Review,vi,Medium,16,Completed
+REQ0257,2026-09-09 15:33,2026-09-09 15:49,Extraction,en,High,16,Completed
+REQ0244,2026-09-09 18:04,2026-09-09 18:43,Guideline Review,vi,High,39,Completed
+REQ0132,2026-09-10 2:41,2026-09-10 2:49,Guideline Review,vi,Medium,8,Completed
+REQ0181,2026-09-10 3:34,2026-09-10 3:39,Extraction,vi,Low,5,Completed
+REQ0353,2026-09-10 4:26,2026-09-10 4:44,Classification,en,Medium,18,Completed
+REQ0318,2026-09-10 21:07,2026-09-10 21:14,Summarization,vi,Low,7,Completed
+REQ0333,2026-09-10 21:10,2026-09-10 21:12,Summarization,en,Low,2,Completed
+REQ0302,2026-09-11 2:41,2026-09-11 2:58,Extraction,vi,Medium,17,Completed
+REQ0356,2026-09-11 4:05,2026-09-11 4:12,Extraction,en,Low,7,Completed
+REQ0164,2026-09-11 4:11,2026-09-11 4:17,Classification,vi,Low,6,Completed
+REQ0236,2026-09-11 17:35,2026-09-11 17:42,Data Validation,en,Medium,7,Completed
+REQ0220,2026-09-12 11:03,2026-09-12 11:10,Summarization,vi,Medium,7,Completed
+REQ0034,2026-09-12 12:27,2026-09-12 12:33,Extraction,en,Low,6,Completed
+REQ0072,2026-09-12 16:09,2026-09-12 16:13,Summarization,en,Low,4,Completed
+REQ0258,2026-09-12 16:51,2026-09-12 16:53,Guideline Review,en,Low,2,Completed
+REQ0300,2026-09-13 2:10,2026-09-13 2:18,Guideline Review,vi,Low,8,Completed
+REQ0036,2026-09-13 2:16,2026-09-13 3:08,Data Validation,en,Medium,52,Completed
+REQ0290,2026-09-13 13:14,2026-09-13 13:30,Data Validation,en,Medium,16,Completed
+REQ0161,2026-09-13 16:41,2026-09-13 16:57,Extraction,vi,Medium,16,Completed
+REQ0050,2026-09-13 20:57,2026-09-13 21:05,Extraction,vi,Low,8,Completed
+REQ0229,2026-09-14 3:53,2026-09-14 4:00,Summarization,vi,Low,7,Completed
+REQ0305,2026-09-14 6:53,2026-09-14 6:55,Classification,vi,Low,2,Completed
+REQ0295,2026-09-14 16:08,2026-09-14 16:18,Extraction,en,Medium,10,Completed
+REQ0335,2026-09-14 19:56,2026-09-14 20:13,Guideline Review,vi,Medium,17,Completed
+REQ0155,2026-09-15 5:51,2026-09-15 6:01,Summarization,en,Medium,10,Completed
+REQ0063,2026-09-15 9:12,2026-09-15 9:18,Summarization,vi,Medium,6,Completed
+REQ0231,2026-09-15 11:31,2026-09-15 11:48,Data Validation,vi,Medium,17,Completed
+REQ0296,2026-09-16 2:26,2026-09-16 2:59,Summarization,en,High,33,Completed
+REQ0083,2026-09-16 3:13,2026-09-16 3:24,Data Validation,vi,Medium,11,Completed
+REQ0148,2026-09-16 4:40,2026-09-16 4:53,Summarization,vi,Medium,13,Completed
+REQ0293,2026-09-16 7:17,2026-09-16 7:22,Summarization,vi,Low,5,Completed
+REQ0326,2026-09-16 14:11,2026-09-16 14:26,Summarization,vi,Medium,15,Completed
+REQ0092,2026-09-17 19:56,2026-09-17 20:18,Guideline Review,vi,High,22,Completed
+REQ0115,2026-09-17 20:54,2026-09-17 21:09,Classification,vi,Medium,15,Completed
+REQ0213,2026-09-18 0:12,2026-09-18 0:27,Extraction,vi,Medium,15,Completed
+REQ0004,2026-09-18 3:14,2026-09-18 3:30,Classification,vi,High,16,Completed
+REQ0151,2026-09-18 13:14,2026-09-18 13:21,Summarization,vi,Low,7,Completed
+REQ0170,2026-09-19 4:07,2026-09-19 4:13,Data Validation,vi,Medium,6,Completed
+REQ0378,2026-09-19 6:13,2026-09-19 6:31,Extraction,en,Medium,18,Completed
+REQ0118,2026-09-19 11:44,2026-09-19 11:51,Extraction,en,Low,7,Completed
+REQ0210,2026-09-20 3:34,2026-09-20 3:50,Data Validation,vi,Medium,16,Completed
+REQ0283,2026-09-20 9:03,2026-09-20 9:13,Extraction,vi,Medium,10,Completed
+REQ0319,2026-09-20 10:33,2026-09-20 10:41,Classification,en,Low,8,Completed
+REQ0391,2026-09-21 2:50,2026-09-21 2:57,Guideline Review,vi,Medium,7,Completed
+REQ0031,2026-09-21 9:19,2026-09-21 9:21,Extraction,vi,Low,2,Completed
+REQ0193,2026-09-22 8:32,2026-09-22 8:39,Extraction,vi,Medium,7,Completed
+REQ0086,2026-09-22 14:30,2026-09-22 14:45,Guideline Review,vi,High,15,Completed
+REQ0152,2026-09-22 17:59,2026-09-22 18:31,Summarization,vi,High,32,Completed
+REQ0057,2026-09-22 20:47,2026-09-22 20:55,Extraction,vi,Low,8,Completed
+REQ0306,2026-09-23 6:28,2026-09-23 6:43,Data Validation,vi,Medium,15,Completed
+REQ0327,2026-09-23 7:16,2026-09-23 7:28,Extraction,vi,Medium,12,Completed
+REQ0386,2026-09-23 8:54,2026-09-23 9:00,Extraction,vi,Medium,6,Completed
+REQ0187,2026-09-24 0:50,2026-09-24 1:04,Extraction,vi,Medium,14,Completed
+REQ0017,2026-09-24 19:03,2026-09-24 19:20,Extraction,vi,Medium,17,Completed
+REQ0366,2026-09-25 1:59,2026-09-25 2:14,Extraction,vi,Medium,15,Completed
+REQ0134,2026-09-25 4:32,2026-09-25 5:01,Guideline Review,vi,High,29,Completed
+REQ0254,2026-09-25 9:11,2026-09-25 9:47,Classification,vi,High,36,Completed
+REQ0313,2026-09-25 20:23,2026-09-25 20:28,Guideline Review,vi,Low,5,Completed
+REQ0160,2026-09-26 2:21,2026-09-26 2:26,Classification,vi,Low,5,Completed
+REQ0262,2026-09-26 8:14,2026-09-26 8:18,Extraction,vi,Low,4,Completed
+REQ0362,2026-09-26 12:37,2026-09-26 12:43,Guideline Review,vi,Low,6,Completed
+REQ0188,2026-09-26 12:43,2026-09-26 12:50,Data Validation,en,Medium,7,Completed
+REQ0147,2026-09-26 19:52,2026-09-26 19:59,Summarization,en,Low,7,Completed
+REQ0109,2026-09-27 23:17,2026-09-27 23:34,Extraction,en,Medium,17,Completed
+REQ0070,2026-09-27 23:29,2026-09-27 23:47,Summarization,en,Medium,18,Completed
+REQ0179,2026-09-28 5:48,2026-09-28 6:03,Classification,en,Medium,15,Completed
+REQ0359,2026-09-28 12:00,2026-09-28 12:04,Extraction,vi,Low,4,Completed
+REQ0381,2026-09-28 15:41,2026-09-28 16:14,Data Validation,vi,High,33,Completed
+REQ0247,2026-09-28 19:30,2026-09-28 19:59,Data Validation,vi,High,29,Completed
+REQ0079,2026-09-29 10:00,2026-09-29 10:28,Guideline Review,vi,High,28,Completed
+REQ0322,2026-09-30 10:17,2026-09-30 10:27,Extraction,vi,Medium,10,Completed
+REQ0205,2026-10-01 14:32,2026-10-01 14:36,Summarization,vi,Low,4,Completed
+REQ0264,2026-10-01 22:09,2026-10-01 22:21,Summarization,en,Medium,12,Completed
+REQ0387,2026-10-01 23:11,2026-10-01 23:27,Guideline Review,vi,Medium,16,Completed
+REQ0144,2026-10-02 1:27,2026-10-02 1:35,Data Validation,en,Low,8,Completed
+REQ0082,2026-10-02 22:29,2026-10-02 22:31,Classification,vi,Low,2,Completed
+REQ0015,2026-10-03 8:57,2026-10-03 8:59,Extraction,vi,Low,2,Completed
+REQ0233,2026-10-03 15:45,2026-10-03 15:55,Guideline Review,vi,Medium,10,Completed
+REQ0105,2026-10-03 23:08,2026-10-03 23:41,Summarization,en,High,33,Completed
+REQ0021,2026-10-04 0:18,2026-10-04 0:33,Summarization,vi,Medium,15,Completed
+REQ0041,2026-10-04 4:49,2026-10-04 5:22,Classification,en,Low,33,Completed
+REQ0204,2026-10-04 20:35,2026-10-04 20:51,Classification,vi,Medium,16,Completed
+REQ0365,2026-10-05 16:08,2026-10-05 16:14,Data Validation,en,Low,6,Completed
+REQ0078,2026-10-06 1:32,2026-10-06 1:44,Data Validation,en,Medium,12,Completed
+REQ0219,2026-10-06 2:25,2026-10-06 2:42,Summarization,en,Medium,17,Completed
+REQ0325,2026-10-06 7:36,2026-10-06 7:42,Extraction,vi,Low,6,Completed
+REQ0252,2026-10-06 14:09,2026-10-06 14:38,Extraction,en,High,29,Completed
+REQ0043,2026-10-06 17:47,2026-10-06 17:52,Data Validation,en,Low,5,Completed
+REQ0206,2026-10-07 1:37,2026-10-07 1:44,Data Validation,vi,Low,7,Completed
+REQ0138,2026-10-07 6:25,2026-10-07 6:27,Extraction,en,Low,2,Completed
+REQ0277,2026-10-07 21:52,2026-10-07 22:28,Classification,vi,High,36,Completed
+REQ0208,2026-10-08 3:52,2026-10-08 4:00,Summarization,vi,Medium,8,Completed
+REQ0342,2026-10-08 5:27,2026-10-08 5:33,Data Validation,vi,Medium,6,Completed
+REQ0280,2026-10-08 10:59,2026-10-08 11:09,Summarization,vi,Medium,10,Completed
+REQ0332,2026-10-08 11:57,2026-10-08 12:06,Data Validation,en,Medium,9,Completed
+REQ0101,2026-10-09 3:31,2026-10-09 3:41,Summarization,vi,Medium,10,Completed
+REQ0176,2026-10-09 15:54,2026-10-09 16:12,Classification,vi,Medium,18,Completed
+REQ0379,2026-10-10 2:09,2026-10-10 2:15,Data Validation,en,Medium,6,Completed
+REQ0282,2026-10-10 8:47,2026-10-10 8:53,Classification,en,Low,6,Completed
+REQ0016,2026-10-10 22:21,2026-10-10 22:27,Extraction,en,Low,6,Completed
+REQ0288,2026-10-10 23:10,2026-10-10 23:13,Guideline Review,vi,Low,3,Completed
+REQ0003,2026-10-11 4:34,2026-10-11 5:07,Summarization,vi,High,33,Completed
+REQ0140,2026-10-11 13:16,2026-10-11 13:34,Extraction,vi,High,18,Completed
+REQ0368,2026-10-12 2:37,2026-10-12 2:54,Extraction,vi,Medium,17,Completed
+REQ0314,2026-10-12 6:52,2026-10-12 7:02,Data Validation,vi,Medium,10,Completed
+REQ0159,2026-10-12 7:15,2026-10-12 7:20,Data Validation,vi,Low,5,Completed
+REQ0375,2026-10-12 13:04,2026-10-12 13:20,Guideline Review,vi,Medium,16,Completed
+REQ0324,2026-10-13 9:47,2026-10-13 10:16,Classification,vi,High,29,Completed
+REQ0248,2026-10-13 22:51,2026-10-13 22:58,Data Validation,vi,Medium,7,Completed
+REQ0162,2026-10-14 8:02,2026-10-14 8:09,Extraction,vi,Medium,7,Completed
+REQ0352,2026-10-14 9:42,2026-10-14 10:08,Extraction,en,High,26,Completed
+REQ0005,2026-10-14 10:42,2026-10-14 10:51,Classification,vi,Medium,9,Completed
+REQ0119,2026-10-14 16:56,2026-10-14 17:18,Extraction,vi,High,22,Completed
+REQ0384,2026-10-14 19:51,2026-10-14 20:00,Extraction,en,Medium,9,Completed
+REQ0294,2026-10-15 1:47,2026-10-15 1:56,Summarization,vi,Medium,9,Completed
+REQ0218,2026-10-15 4:04,2026-10-15 4:07,Summarization,vi,Low,3,Completed
+REQ0272,2026-10-15 4:30,2026-10-15 4:35,Summarization,en,Low,5,Completed
+REQ0357,2026-10-15 8:48,2026-10-15 8:57,Guideline Review,en,Medium,9,Completed
+REQ0026,2026-10-15 9:06,2026-10-15 9:11,Classification,en,Low,5,Completed
+REQ0165,2026-10-15 16:29,2026-10-15 16:32,Classification,vi,Low,3,Completed
+REQ0125,2026-10-16 14:21,2026-10-16 14:26,Classification,vi,Low,5,Completed
+REQ0007,2026-10-16 16:38,2026-10-16 16:43,Classification,vi,Low,5,Completed
+REQ0150,2026-10-16 18:45,2026-10-16 18:58,Guideline Review,en,Medium,13,Completed
+REQ0171,2026-10-16 19:37,2026-10-16 19:52,Classification,vi,Medium,15,Completed
+REQ0217,2026-10-17 8:07,2026-10-17 8:11,Summarization,vi,Low,4,Completed
+REQ0279,2026-10-17 11:44,2026-10-17 12:09,Data Validation,vi,High,25,Completed
+REQ0304,2026-10-18 0:57,2026-10-18 1:07,Summarization,vi,Medium,10,Completed
+REQ0198,2026-10-18 5:39,2026-10-18 6:13,Summarization,vi,High,34,Completed
+REQ0183,2026-10-18 18:22,2026-10-18 18:39,Summarization,en,High,17,Completed
+REQ0256,2026-10-18 21:00,2026-10-18 21:06,Classification,vi,Low,6,Completed
+REQ0351,2026-10-19 5:07,2026-10-19 5:35,Extraction,vi,Low,28,Completed
+REQ0395,2026-10-19 19:19,2026-10-19 19:21,Summarization,vi,Low,2,Completed
+REQ0060,2026-10-19 20:00,2026-10-19 20:14,Guideline Review,vi,Medium,14,Completed
+REQ0355,2026-10-19 21:42,2026-10-19 22:18,Guideline Review,vi,High,36,Completed
+REQ0317,2026-10-20 11:00,2026-10-20 11:05,Classification,vi,Low,5,Completed
+REQ0350,2026-10-20 12:54,2026-10-20 13:02,Extraction,en,Low,8,Completed
+REQ0380,2026-10-20 15:10,2026-10-20 15:17,Data Validation,vi,Medium,7,Completed
+REQ0400,2026-10-21 16:10,2026-10-21 16:20,Extraction,vi,Medium,10,Completed
+REQ0337,2026-10-22 19:01,2026-10-22 19:19,Extraction,vi,Medium,18,Completed
+REQ0076,2026-10-22 21:53,2026-10-22 22:11,Guideline Review,vi,Medium,18,Completed
+REQ0023,2026-10-23 2:59,2026-10-23 3:01,Summarization,vi,Low,2,Completed
+REQ0137,2026-10-23 5:00,2026-10-23 5:05,Extraction,en,Low,5,Completed
+REQ0002,2026-10-23 8:24,2026-10-23 8:42,Summarization,vi,Medium,18,Completed
+REQ0255,2026-10-23 11:22,2026-10-23 11:28,Guideline Review,en,Low,6,Completed
+REQ0110,2026-10-23 19:02,2026-10-23 19:04,Summarization,vi,Low,2,Completed
+REQ0284,2026-10-24 2:46,2026-10-24 2:54,Extraction,vi,Medium,8,Completed
+REQ0084,2026-10-24 3:13,2026-10-24 3:20,Extraction,vi,Medium,7,Completed
+REQ0052,2026-10-24 9:11,2026-10-24 9:16,Data Validation,en,Low,5,Completed
+REQ0297,2026-10-24 12:51,2026-10-24 12:56,Classification,en,Low,5,Completed
+REQ0169,2026-10-25 1:26,2026-10-25 2:01,Classification,en,High,35,Completed
+REQ0315,2026-10-25 10:34,2026-10-25 10:38,Summarization,vi,Low,4,Completed
+REQ0345,2026-10-25 15:50,2026-10-25 16:06,Classification,vi,Medium,16,Completed
+REQ0377,2026-10-25 22:06,2026-10-25 22:12,Classification,vi,Low,6,Completed
+REQ0298,2026-10-26 11:56,2026-10-26 12:35,Guideline Review,vi,High,39,Completed
+REQ0192,2026-10-26 18:20,2026-10-26 18:47,Summarization,vi,High,27,Completed
+REQ0058,2026-10-26 23:20,2026-10-26 23:24,Summarization,vi,Low,4,Completed
+REQ0073,2026-10-27 6:43,2026-10-27 6:46,Data Validation,en,Low,3,Completed
+REQ0077,2026-10-27 9:20,2026-10-27 9:28,Classification,en,Medium,8,Completed
+REQ0168,2026-10-27 9:57,2026-10-27 10:03,Extraction,vi,Medium,6,Completed
+REQ0330,2026-10-27 14:01,2026-10-27 14:04,Classification,en,Low,3,Completed
+REQ0253,2026-10-28 6:59,2026-10-28 7:18,Guideline Review,vi,High,19,Completed
