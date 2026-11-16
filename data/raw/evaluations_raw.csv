@@ -1,0 +1,802 @@
+﻿Evaluation_ID,Request_ID,Reviewer_ID,Evaluated_At,Accuracy_Score,Completeness_Score,Guideline_Score,Error_Type,Reviewer_Notes
+EV00001,REQ0301,R04,2026-07-01 16:13,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00002,REQ0301,R01,2026-07-01 5:36,5,4,5,None,Meets all three evaluation criteria.
+EV00003,REQ0212,R01,2026-07-02 22:59,5,5,4,None,Meets all three evaluation criteria.
+EV00004,REQ0212,R04,2026-07-02 18:23,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00005,REQ0321,R04,2026-07-02 6:27,4,4,4,None,Meets all three evaluation criteria.
+EV00006,REQ0321,R01,2026-07-01 11:35,4,4,4,None,Meets all three evaluation criteria.
+EV00007,REQ0349,R04,2026-07-01 15:03,5,4,4,None,Meets all three evaluation criteria.
+EV00008,REQ0349,R02,2026-07-02 15:06,3,5,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00009,REQ0259,R03,2026-07-02 17:02,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00010,REQ0259,R01,2026-07-02 15:34,5,3,3,Missing Information,Review needed: completeness below threshold.
+EV00011,REQ0136,R04,2026-07-03 10:11,4,4,4,None,Meets all three evaluation criteria.
+EV00012,REQ0136,R01,2026-07-03 16:06,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00013,REQ0030,R01,2026-07-03 19:38,4,5,4,None,Meets all three evaluation criteria.
+EV00014,REQ0030,R04,2026-07-02 9:29,5,5,5,None,Meets all three evaluation criteria.
+EV00015,REQ0354,R03,2026-07-03 6:20,3,4,3,none,Review needed: guideline below threshold.
+EV00016,REQ0354,R01,2026-07-02 9:06,4,4,5,None,Meets all three evaluation criteria.
+EV00017,REQ0331,R02,2026-07-03 21:18,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00018,REQ0331,R04,2026-07-03 17:53,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00019,REQ0274,R02,2026-07-03 2:03,4,4,5,None,Meets all three evaluation criteria.
+EV00020,REQ0274,R01,2026-07-04 0:17,5,4,4,None,Meets all three evaluation criteria.
+EV00021,REQ0376,R01,2026-07-03 16:43,5,5,5,None,Meets all three evaluation criteria.
+EV00022,REQ0376,R03,2026-07-02 19:36,4,5,5,None,Meets all three evaluation criteria.
+EV00023,REQ0090,R03,2026-07-04 4:02,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00024,REQ0090,R04,2026-07-03 16:24,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00025,REQ0117,R03,2026-07-03 15:41,4,4,4,None,Meets all three evaluation criteria.
+EV00026,REQ0117,R02,2026-07-03 21:50,5,4,4,None,Meets all three evaluation criteria.
+EV00027,REQ0122,R02,2026-07-04 4:59,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00028,REQ0122,R03,2026-07-03 12:10,2,1,3,Missing Information,Review needed: completeness below threshold.
+EV00029,REQ0197,R02,2026-07-04 19:12,5,5,5,None,Meets all three evaluation criteria.
+EV00030,REQ0197, R02 ,2026-07-05 0:50,5,5,5,None,Meets all three evaluation criteria.
+EV00031,REQ0292,R03,2026-07-04 12:09,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00032,REQ0292,R01,2026-07-05 15:38,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00033,REQ0111,R01,2026-07-04 4:16,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00034,REQ0111,R02,2026-07-04 7:45,4,4,4,None,Meets all three evaluation criteria.
+EV00035,REQ0112,R03,2026-07-06 0:24,4,5,4,None,Meets all three evaluation criteria.
+EV00036,REQ0112,R01,2026-07-04 8:37,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00037,REQ0029,R03,2026-07-04 17:55,4,4,4,None,Meets all three evaluation criteria.
+EV00038,REQ0029,R02,2026-07-05 3:20,4,5,5,None,Meets all three evaluation criteria.
+EV00039,REQ0108,R01,2026-07-06 1:58,4,5,5,None,Meets all three evaluation criteria.
+EV00040,REQ0108,R03,2026-07-05 2:55,5,5,5,None,Meets all three evaluation criteria.
+EV00041,REQ0190,R03,2026-07-05 15:43,5,5,5,None,Meets all three evaluation criteria.
+EV00042,REQ0190,R02,2026-07-06 1:34,5,4,5,None,Meets all three evaluation criteria.
+EV00043,REQ0194,R01,2026-07-04 17:16,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00044,REQ0194,R04,2026-07-04 19:55,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00045,REQ0341,R01,2026-07-06 0:24,4,4,4,None,
+EV00046,REQ0341,R02,2026-07-05 14:59,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00047,REQ0311,R03,2026-07-07 5:11,5,5,4,None,Meets all three evaluation criteria.
+EV00048,REQ0311,R02,2026-07-05 10:15,5,5,5,None,Meets all three evaluation criteria.
+EV00049,REQ0154,R02,2026-07-05 21:46,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00050,REQ0154,R03,2026-07-06 23:05,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00051,REQ0260,R03,2026-07-07 9:57,4,5,4,None,Meets all three evaluation criteria.
+EV00052,REQ0260,R02,2026-07-06 20:15,4,4,4,None,Meets all three evaluation criteria.
+EV00053,REQ0234,R03,2026-07-05 13:27,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00054,REQ0234,R02,2026-07-05 23:35,5,4,4,None,Meets all three evaluation criteria.
+EV00055,REQ0221,R01,2026-07-06 14:54,4,5,4,None,Meets all three evaluation criteria.
+EV00056,REQ0221,R03,2026-07-06 8:38,5,4,4,None,Meets all three evaluation criteria.
+EV00057,REQ0374,R04,2026-07-06 15:12,5,4,5,None,Meets all three evaluation criteria.
+EV00058,REQ0374,R01,2026-07-05 19:59,5,5,5,None,Meets all three evaluation criteria.
+EV00059,REQ0048,R02,2026-07-07 21:34,4,4,4,None,Meets all three evaluation criteria.
+EV00060,REQ0048,R03,2026-07-06 19:59,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00061,REQ0098,R03,2026-07-07 0:07,1,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00062,REQ0098,R02,2026-07-07 22:38,2,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00063,REQ0081,R02,2026-07-08 10:56,4,4,5,None,Meets all three evaluation criteria.
+EV00064,REQ0081,R03,2026-07-08 7:23,4,5,4,None,Meets all three evaluation criteria.
+EV00065,REQ0139,R01,2026-07-08 15:43,5,4,4,None,Meets all three evaluation criteria.
+EV00066,REQ0139,R02,2026-07-07 6:19,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00067,REQ0348,R03,2026-07-08 10:48,3,1,2,Missing Information,Review needed: completeness below threshold.
+EV00068,REQ0348,R04,2026-07-08 11:45,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00069,REQ0068,R02,2026-07-08 6:51,5,4,5,None,Meets all three evaluation criteria.
+EV00070,REQ0068,R03,2026-07-08 4:40,4,5,5,None,Meets all three evaluation criteria.
+EV00071,REQ0120,R02,2026-07-09 7:51,4,4,4,None,Meets all three evaluation criteria.
+EV00072,REQ0120,R04,2026-07-08 5:05,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00073,REQ0075,R01,2026-07-08 2:07,5,4,5,None,Meets all three evaluation criteria.
+EV00074,REQ0075,R02,2026-07-09 11:03,5,5,4,None,Meets all three evaluation criteria.
+EV00075,REQ0361,R01,2026-07-09 0:37,5,4,4,None,Meets all three evaluation criteria.
+EV00076,REQ0361,R03,2026-07-09 17:24,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00077,REQ0088,R01,2026-07-08 12:30,5,5,5,None,Meets all three evaluation criteria.
+EV00078,REQ0088,R04,2026-07-10 7:44,5,5,4,None,Meets all three evaluation criteria.
+EV00079,REQ0180,R04,2026-07-10 13:00,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00080,REQ0180,R03,2026-07-09 13:56,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00081,REQ0065,R03,2026-07-09 4:21,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00082,REQ0065,R02,2026-07-09 16:43,2,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00083,REQ0270,R04,2026-07-10 5:16,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00084,REQ0270,R03,2026-07-09 20:53,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00085,REQ0106,R02,2026-07-11 9:01,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00086,REQ0106,R03,2026-07-10 19:47,2,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00087,REQ0275,R01,2026-07-10 12:01,4,5,5,None,Meets all three evaluation criteria.
+EV00088,REQ0275,R04,2026-07-11 19:20,5,5,5,None,Meets all three evaluation criteria.
+EV00089,REQ0310,R02,2026-07-11 3:23,5,5,5,None,Meets all three evaluation criteria.
+EV00090,REQ0310,R01,2026-07-12 17:43,4,4,5,None,Meets all three evaluation criteria.
+EV00091,REQ0051,R01,2026-07-12 6:20,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00092,REQ0051,R04,2026-07-12 21:56,2,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00093,REQ0013,R03,2026-07-12 4:33,4,4,5,None,Meets all three evaluation criteria.
+EV00094,REQ0013,R02,2026-07-12 9:03,5,5,5,None,Meets all three evaluation criteria.
+EV00095,REQ0028,R03,2026-07-12 17:46,5,5,4,None,Meets all three evaluation criteria.
+EV00096,REQ0028,R01,2026-07-12 18:38,5,5,4,None,Meets all three evaluation criteria.
+EV00097,REQ0158,R03,2026-07-12 0:14,1,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00098,REQ0158,R01,2026-07-11 15:35,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00099,REQ0143,R03,2026-07-12 2:51,2,2,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00100,REQ0143,R02,2026-07-11 22:30,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00101,REQ0189,R03,2026-07-11 19:27,4,5,4,None,Meets all three evaluation criteria.
+EV00102,REQ0189,R04,2026-07-12 6:55,5,5,5,None,Meets all three evaluation criteria.
+EV00103,REQ0067,R03,2026-07-12 21:23,5,5,4,None,Meets all three evaluation criteria.
+EV00104,REQ0067,R04,2026-07-13 14:31,5,5,4,None,Meets all three evaluation criteria.
+EV00105,REQ0011,R03,2026-07-13 2:59,2,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00106,REQ0011,R01,2026-07-13 10:31,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00107,REQ0121,R01,2026-07-13 14:02,2,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00108,REQ0121,R02,2026-07-13 1:23,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00109,REQ0035,R03,2026-07-13 15:26,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00110,REQ0035,R04,2026-07-14 4:19,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00111,REQ0291,R01,2026-07-14 0:28,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00112,REQ0291,R02,2026-07-14 7:00,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00113,REQ0363,R02,2026-07-15 5:41,4,4,5,None,Meets all three evaluation criteria.
+EV00114,REQ0363,R04,2026-07-15 2:38,5,4,4,None,Meets all three evaluation criteria.
+EV00115,REQ0237,R02,2026-07-14 0:57,5,5,5,None,Meets all three evaluation criteria.
+EV00116,REQ0237,R01,2026-07-15 23:29,4,5,5,None,Meets all three evaluation criteria.
+EV00117,REQ0102,R04,2026-07-16 6:16,5,5,5,None,Meets all three evaluation criteria.
+EV00118,REQ0102,R02,2026-07-15 4:31,5,5,4,None,Meets all three evaluation criteria.
+EV00119,REQ0167,R02,2026-07-16 2:30,5,3,4,Missing Information,Review needed: completeness below threshold.
+EV00120,REQ0167,R03,2026-07-15 19:35,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00121,REQ0334,R02,2026-07-16 0:39,2,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00122,REQ0334,R03,2026-07-16 22:24,4,2,3,Missing Information,Review needed: completeness below threshold.
+EV00123,REQ0145,R01,2026-07-17 11:01,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00124,REQ0145,R02,2026-07-17 18:46,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00125,REQ0061,R02,2026-07-17 13:01,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00126,REQ0061,R04,2026-07-16 6:33,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00127,REQ0389,R03,2026-07-17 15:44,5,5,5,None,Meets all three evaluation criteria.
+EV00128,REQ0389,R04,2026-07-17 11:01,5,5,4,None,Meets all three evaluation criteria.
+EV00129,REQ0225,R04,2026-07-18 3:53,4,4,5,None,Meets all three evaluation criteria.
+EV00130,REQ0225,R03,2026-07-16 12:09,5,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00131,REQ0177,R02,2026-07-18 1:15,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00132,REQ0177,R03,2026-07-17 19:29,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00133,REQ0126,R02,2026-07-17 0:24,4,5,5,None,Meets all three evaluation criteria.
+EV00134,REQ0126,R03,2026-07-17 14:55,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00135,REQ0100,R01,2026-07-17 7:58,5,4,4,None,Meets all three evaluation criteria.
+EV00136,REQ0100,R02,2026-07-17 3:14,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00137,REQ0071,R02,2026-07-18 1:07,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00138,REQ0071,R03,2026-07-17 11:23,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00139,REQ0226,R04,2026-07-18 13:56,5,5,4,None,Meets all three evaluation criteria.
+EV00140,REQ0226,R02,2026-07-19 2:51,5,5,4,None,Meets all three evaluation criteria.
+EV00141,REQ0224,R02,2026-07-18 21:58,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00142,REQ0224,R04,2026-07-18 23:56,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00143,REQ0267,R04,2026-07-18 16:45,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00144,REQ0267,R03,2026-07-18 10:22,2,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00145,REQ0360,R03,2026-07-19 3:58,5,3,4,Missing Information,Review needed: completeness below threshold.
+EV00146,REQ0360,R02,2026-07-19 4:48,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00147,REQ0303,R03,2026-07-18 18:05,5,5,5,None,Meets all three evaluation criteria.
+EV00148,REQ0303,R01,2026-07-19 2:34,4,5,4,None,Meets all three evaluation criteria.
+EV00149,REQ0039,R04,2026-07-19 13:11,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00150,REQ0039,R02,2026-07-19 6:17,1,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00151,REQ0370,R02,2026-07-19 21:07,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00152,REQ0370,R01,2026-07-18 17:48,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00153,REQ0172,R02,2026-07-19 19:11,5,4,4,None,Meets all three evaluation criteria.
+EV00154,REQ0172,R01,2026-07-19 22:16,5,3,4,Missing Information,Review needed: completeness below threshold.
+EV00155,REQ0037,R03,2026-07-20 20:20,5,5,5,None,Meets all three evaluation criteria.
+EV00156,REQ0037,R01,2026-07-20 0:16,5,4,5,None,Meets all three evaluation criteria.
+EV00157,REQ0019,R01,2026-07-19 18:22,5,4,5,None,Meets all three evaluation criteria.
+EV00158,REQ0019,R03,2026-07-19 1:06,5,5,5,None,Meets all three evaluation criteria.
+EV00159,REQ0053,R02,2026-07-20 11:09,5,4,5,None,Meets all three evaluation criteria.
+EV00160,REQ0053,R03,2026-07-20 16:52,5,5,5,None,Meets all three evaluation criteria.
+EV00161,REQ0392,R02,2026-07-20 9:40,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00162,REQ0392,R01,2026-07-19 22:49,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00163,REQ0214,R01,2026-07-19 20:40,5,5,5,None,Meets all three evaluation criteria.
+EV00164,REQ0214,R02,2026-07-20 18:52,5,4,5,None,Meets all three evaluation criteria.
+EV00165,REQ0216,R02,2026-07-20 18:44,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00166,REQ0216,R01,2026-07-21 12:41,4,4,4,None,Meets all three evaluation criteria.
+EV00167,REQ0245,R04,2026-07-21 7:40,4,5,5,None,Meets all three evaluation criteria.
+EV00168,REQ0245,R01,2026-07-22 2:03,5,5,5,None,Meets all three evaluation criteria.
+EV00169,REQ0373,R01,2026-07-21 3:17,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00170,REQ0373,R04,2026-07-22 14:55,4,5,5,None,Meets all three evaluation criteria.
+EV00171,REQ0097,R02,2026-07-22 2:44,5,4,4,None,Meets all three evaluation criteria.
+EV00172,REQ0097,R01,2026-07-21 13:19,5,4,5,None,Meets all three evaluation criteria.
+EV00173,REQ0157,R02,2026-07-22 5:22,5,4,5,None,Meets all three evaluation criteria.
+EV00174,REQ0157,R03,2026-07-21 16:42,5,4,5,None,Meets all three evaluation criteria.
+EV00175,REQ0045,R04,2026-07-22 0:19,5,4,4,None,Meets all three evaluation criteria.
+EV00176,REQ0045,R02,2026-07-22 5:11,5,5,5,None,Meets all three evaluation criteria.
+EV00177,REQ0091,R02,2026-07-22 21:52,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00178,REQ0091,R01,2026-07-22 2:39,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00179,REQ0104,R02,2026-07-23 3:00,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00180,REQ0104,R03,2026-07-23 3:54,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00181,REQ0133,R01,2026-07-23 6:05,5,4,4,None,Meets all three evaluation criteria.
+EV00182,REQ0133,R03,2026-07-21 21:33,5,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00183,REQ0232,R01,2026-07-22 2:30,5,4,5,None,Meets all three evaluation criteria.
+EV00184,REQ0232,R03,2026-07-22 16:48,5,5,5,None,Meets all three evaluation criteria.
+EV00185,REQ0261,R02,2026-07-24 0:01,5,5,5,None,Meets all three evaluation criteria.
+EV00186,REQ0261,R01,2026-07-23 20:38,4,4,5,None,Meets all three evaluation criteria.
+EV00187,REQ0008,R02,2026-07-24 15:14,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00188,REQ0008,R04,2026-07-24 14:55,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00189,REQ0269,R03,2026-07-25 2:23,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00190,REQ0269,R02,2026-07-24 14:40,4,4,5,None,Meets all three evaluation criteria.
+EV00191,REQ0263,R02,2026-07-24 17:57,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00192,REQ0263,R04,2026-07-24 7:28,3,2,4,Missing Information,Review needed: completeness below threshold.
+EV00193,REQ0347,R03,2026-07-23 14:42,5,3,5,Missing Information,Review needed: completeness below threshold.
+EV00194,REQ0347,R04,2026-07-23 18:30,4,5,4,None,Meets all three evaluation criteria.
+EV00195,REQ0014,R03,2026-07-25 2:30,5,4,4,None,Meets all three evaluation criteria.
+EV00196,REQ0014,R02,2026-07-25 11:21,5,4,4,None,Meets all three evaluation criteria.
+EV00197,REQ0308,R02,2026-07-23 22:25,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00198,REQ0308,R03,2026-07-24 4:50,3,2,4,Missing Information,Review needed: completeness below threshold.
+EV00199,REQ0211,R04,2026-07-24 18:19,4,4,4,None,Meets all three evaluation criteria.
+EV00200,REQ0211,R02,2026-07-25 17:13,5,4,5,None,Meets all three evaluation criteria.
+EV00201,REQ0054,R04,2026-07-24 8:58,3,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00202,REQ0054,R03,2026-07-25 18:16,2,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00203,REQ0080,R03,2026-07-26 7:28,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00204,REQ0080,R02,2026-07-25 8:10,5,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00205,REQ0006,R02,2026-07-26 17:31,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00206,REQ0006,R03,2026-07-28 3:37,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00207,REQ0398,R04,2026-07-27 15:09,5,5,5,None,Meets all three evaluation criteria.
+EV00208,REQ0398,R02,2026-07-27 19:23,4,5,5,None,Meets all three evaluation criteria.
+EV00209,REQ0336,R04,2026-07-28 10:13,4,5,4,None,Meets all three evaluation criteria.
+EV00210,REQ0336,R01,2026-07-28 13:43,5,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00211,REQ0107,R01,2026-07-28 0:35,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00212,REQ0107,R04,2026-07-28 16:22,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00213,REQ0371,R03,2026-07-29 21:41,3,3,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00214,REQ0371,R02,2026-07-29 0:28,4,5,4,None,Meets all three evaluation criteria.
+EV00215,REQ0146,R04,2026-07-29 15:38,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00216,REQ0146,R03,2026-07-29 6:07,4,4,4,None,Meets all three evaluation criteria.
+EV00217,REQ0246,R02,2026-07-30 11:13,4,4,4,None,Meets all three evaluation criteria.
+EV00218,REQ0246,R01,2026-07-30 9:52,5,5,4,None,Meets all three evaluation criteria.
+EV00219,REQ0251,R03,2026-07-29 17:35,5,4,4,None,Meets all three evaluation criteria.
+EV00220,REQ0251,R04,2026-07-30 20:27,4,4,4,None,Meets all three evaluation criteria.
+EV00221,REQ0044,R03,2026-07-31 14:16,5,4,4,None,Meets all three evaluation criteria.
+EV00222,REQ0044,R04,2026-07-30 15:22,5,5,5,None,Meets all three evaluation criteria.
+EV00223,REQ0089,R01,2026-07-30 16:43,4,4,4,None,Meets all three evaluation criteria.
+EV00224,REQ0089,R03,2026-07-31 23:56,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00225,REQ0240,R03,2026-07-30 20:23,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00226,REQ0240,R04,2026-07-31 15:28,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00227,REQ0346,R04,2026-07-31 9:15,4,5,5,None,Meets all three evaluation criteria.
+EV00228,REQ0346,R01,2026-08-01 5:08,4,5,5,None,Meets all three evaluation criteria.
+EV00229,REQ0032,R04,2026-08-01 21:24,4,4,5,None,Meets all three evaluation criteria.
+EV00230,REQ0032,R03,2026-07-31 21:19,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00231,REQ0372,R01,2026-07-31 6:15,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00232,REQ0372,R02,2026-08-01 21:49,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00233,REQ0095,R03,2026-08-01 20:34,4,5,4,None,Meets all three evaluation criteria.
+EV00234,REQ0095,R04,2026-08-01 1:39,4,4,5,None,Meets all three evaluation criteria.
+EV00235,REQ0397,R01,2026-08-01 18:51,2,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00236,REQ0397,R02,2026-08-02 1:54,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00237,REQ0388,R02,2026-08-01 15:59,5,5,4,None,Meets all three evaluation criteria.
+EV00238,REQ0388,R03,2026-08-01 19:07,5,5,5,None,Meets all three evaluation criteria.
+EV00239,REQ0287,R04,2026-08-02 8:32,2,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00240,REQ0287,R01,2026-08-01 9:09,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00241,REQ0046,R04,2026-08-02 20:04,5,5,5,None,Meets all three evaluation criteria.
+EV00242,REQ0046,R01,2026-08-02 22:56,5,5,5,None,Meets all three evaluation criteria.
+EV00243,REQ0289,R04,2026-08-02 12:03,5,5,5,None,Meets all three evaluation criteria.
+EV00244,REQ0289,R03,2026-08-03 11:43,5,5,5,None,Meets all three evaluation criteria.
+EV00245,REQ0199,R04,2026-08-02 15:11,4,5,4,None,Meets all three evaluation criteria.
+EV00246,REQ0199,R03,2026-08-04 2:39,4,5,5,None,Meets all three evaluation criteria.
+EV00247,REQ0250,R01,2026-08-03 15:04,1,1,2,Missing Information,Review needed: completeness below threshold.
+EV00248,REQ0250,R04,2026-08-03 3:16,1,1,1,Incorrect Information,Review needed: accuracy below threshold.
+EV00249,REQ0141,R04,2026-08-04 5:34,4,4,4,None,Meets all three evaluation criteria.
+EV00250,REQ0141,R01,2026-08-03 3:00,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00251,REQ0191,R01,2026-08-04 7:52,4,4,4,None,Meets all three evaluation criteria.
+EV00252,REQ0191,R02,2026-08-04 7:11,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00253,REQ0201,R03,2026-08-03 22:48,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00254,REQ0201,R02,2026-08-04 12:19,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00255,REQ0222,R03,2026-08-04 21:34,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00256,REQ0222,R01,2026-08-04 7:01,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00257,REQ0113,R01,2026-08-05 9:13,4,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00258,REQ0113,R03,2026-08-05 8:46,4,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00259,REQ0153,R01,2026-08-04 12:16,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00260,REQ0153,R04,2026-08-05 21:36,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00261,REQ0223,R02,2026-08-05 13:58,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00262,REQ0223,R04,2026-08-05 18:30,2,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00263,REQ0339,R02,2026-08-04 22:05,2,1,1,Missing Information,Review needed: completeness below threshold.
+EV00264,REQ0339,R01,2026-08-06 4:47,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00265,REQ0103,R03,2026-08-06 18:32,1,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00266,REQ0103,R01,2026-08-05 21:48,2,2,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00267,REQ0316,R04,2026-08-06 13:12,5,4,5,None,Meets all three evaluation criteria.
+EV00268,REQ0316,R03,2026-08-06 2:06,5,4,4,None,Meets all three evaluation criteria.
+EV00269,REQ0278,R02,2026-08-06 3:24,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00270,REQ0278,R03,2026-08-06 9:40,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00271,REQ0020,R03,2026-08-07 16:05,4,2,3,Missing Information,Review needed: completeness below threshold.
+EV00272,REQ0020,R04,2026-08-08 3:16,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00273,REQ0249,R01,2026-08-08 4:38,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00274,REQ0249,R03,2026-08-07 9:46,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00275,REQ0129,R03,2026-08-08 17:15,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00276,REQ0129,R01,2026-08-07 7:20,4,4,4,None,Meets all three evaluation criteria.
+EV00277,REQ0055,R01,2026-08-09 10:34,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00278,REQ0055,R04,2026-08-08 20:29,3,2,4,Missing Information,Review needed: completeness below threshold.
+EV00279,REQ0266,R02,2026-08-08 4:23,4,4,5,None,Meets all three evaluation criteria.
+EV00280,REQ0266,R01,2026-08-09 13:57,5,3,4,Missing Information,Review needed: completeness below threshold.
+EV00281,REQ0202,R04,2026-08-09 5:47,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00282,REQ0202,R01,2026-08-09 18:47,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00283,REQ0239,R04,2026-08-10 8:49,5,5,4,None,Meets all three evaluation criteria.
+EV00284,REQ0239,R03,2026-08-09 15:45,5,5,4,None,Meets all three evaluation criteria.
+EV00285,REQ0369,R01,2026-08-11 3:22,4,4,4,None,Meets all three evaluation criteria.
+EV00286,REQ0369,R04,2026-08-10 16:37,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00287,REQ0163,R04,2026-08-11 23:19,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00288,REQ0163,R02,2026-08-10 12:55,4,4,5,None,Meets all three evaluation criteria.
+EV00289,REQ0182,R02,2026-08-12 1:13,4,4,5,None,Meets all three evaluation criteria.
+EV00290,REQ0182,R04,2026-08-12 11:16,5,4,5,None,Meets all three evaluation criteria.
+EV00291,REQ0064,R04,2026-08-11 18:49,4,4,4,None,Meets all three evaluation criteria.
+EV00292,REQ0064,R01,2026-08-11 21:08,5,3,5,Missing Information,Review needed: completeness below threshold.
+EV00293,REQ0166,R03,2026-08-12 0:54,4,4,5,None,Meets all three evaluation criteria.
+EV00294,REQ0166,R02,2026-08-12 13:30,5,5,5,None,Meets all three evaluation criteria.
+EV00295,REQ0309,R04,2026-08-13 7:55,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00296,REQ0309,R03,2026-08-12 21:03,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00297,REQ0241,R04,2026-08-12 16:20,5,4,5,None,Meets all three evaluation criteria.
+EV00298,REQ0241,R02,2026-08-13 3:15,5,5,5,None,Meets all three evaluation criteria.
+EV00299,REQ0114,R03,2026-08-14 7:42,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00300,REQ0114,R04,2026-08-14 11:22,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00301,REQ0094,R04,2026-08-14 0:31,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00302,REQ0094,R01,2026-08-14 18:20,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00303,REQ0329,R01,2026-08-15 1:48,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00304,REQ0329,R02,2026-08-13 19:13,1,2,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00305,REQ0142,R02,2026-08-15 1:33,4,5,5,None,Meets all three evaluation criteria.
+EV00306,REQ0142,R04,2026-08-15 14:04,5,5,5,None,Meets all three evaluation criteria.
+EV00307,REQ0394,R01,2026-08-14 3:41,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00308,REQ0394,R04,2026-08-15 6:11,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00309,REQ0009,R03,2026-08-16 5:37,4,4,4,None,Meets all three evaluation criteria.
+EV00310,REQ0009,R04,2026-08-15 21:47,5,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00311,REQ0123,R01,2026-08-14 14:22,4,5,5,None,Meets all three evaluation criteria.
+EV00312,REQ0123,R02,2026-08-16 10:17,5,5,5,None,Meets all three evaluation criteria.
+EV00313,REQ0209,R03,2026-08-15 9:24,1,1,2,Missing Information,Review needed: completeness below threshold.
+EV00314,REQ0209,R01,2026-08-15 23:26,1,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00315,REQ0175,R03,2026-08-16 9:44,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00316,REQ0175,R04,2026-08-16 2:10,4,4,4,None,Meets all three evaluation criteria.
+EV00317,REQ0074,R04,2026-08-16 7:18,5,5,4,None,Meets all three evaluation criteria.
+EV00318,REQ0074,R01,2026-08-16 5:34,4,5,5,None,Meets all three evaluation criteria.
+EV00319,REQ0096,R01,2026-08-16 20:05,4,5,5,None,Meets all three evaluation criteria.
+EV00320,REQ0096,R02,2026-08-16 15:42,5,5,5,None,Meets all three evaluation criteria.
+EV00321,REQ0174,R01,2026-08-18 21:27,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00322,REQ0174,R04,2026-08-17 7:05,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00323,REQ0328,R04,2026-08-19 2:35,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00324,REQ0328,R01,2026-08-18 7:15,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00325,REQ0271,R03,2026-08-17 20:19,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00326,REQ0271,R04,2026-08-18 21:20,5,4,4,None,Meets all three evaluation criteria.
+EV00327,REQ0040,R01,2026-08-18 3:29,5,5,5,None,Meets all three evaluation criteria.
+EV00328,REQ0040,R04,2026-08-18 23:33,4,5,5,None,Meets all three evaluation criteria.
+EV00329,REQ0200,R02,2026-08-17 22:03,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00330,REQ0200,R01,2026-08-18 23:11,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00331,REQ0033,R04,2026-08-19 12:43,4,4,4,None,Meets all three evaluation criteria.
+EV00332,REQ0033,R01,2026-08-18 1:21,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00333,REQ0268,R03,2026-08-20 0:32,5,5,5,None,Meets all three evaluation criteria.
+EV00334,REQ0268,R01,2026-08-18 7:52,4,5,5,None,Meets all three evaluation criteria.
+EV00335,REQ0042,R01,2026-08-19 15:28,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00336,REQ0042,R04,2026-08-19 2:38,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00337,REQ0393,R01,2026-08-19 7:09,3,2,2,Missing Information,Review needed: completeness below threshold.
+EV00338,REQ0393,R04,2026-08-19 22:05,1,2,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00339,REQ0364,R04,2026-08-20 14:07,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00340,REQ0364,R02,2026-08-20 20:34,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00341,REQ0149,R02,2026-08-20 7:08,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00342,REQ0149,R03,2026-08-20 11:53,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00343,REQ0131,R03,2026-08-20 5:49,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00344,REQ0131,R01,2026-08-20 16:24,5,4,5,None,Meets all three evaluation criteria.
+EV00345,REQ0265,R03,2026-08-21 21:30,4,4,5,None,Meets all three evaluation criteria.
+EV00346,REQ0265,R02,2026-08-21 10:51,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00347,REQ0382,R02,2026-08-21 14:53,3,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00348,REQ0382,R04,2026-08-21 8:39,2,1,1,Missing Information,Review needed: completeness below threshold.
+EV00349,REQ0173,R04,2026-08-22 15:38,5,5,5,None,Meets all three evaluation criteria.
+EV00350,REQ0173,R03,2026-08-21 9:53,5,4,5,None,Meets all three evaluation criteria.
+EV00351,REQ0093,R02,2026-08-21 12:49,3,3,1,Guideline Violation,Review needed: guideline below threshold.
+EV00352,REQ0093,R01,2026-08-21 10:42,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00353,REQ0243,R02,2026-08-21 10:56,4,4,4,None,Meets all three evaluation criteria.
+EV00354,REQ0243,R01,2026-08-22 16:15,4,4,5,None,Meets all three evaluation criteria.
+EV00355,REQ0390,R04,2026-08-22 11:20,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00356,REQ0390,R01,2026-08-22 4:20,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00357,REQ0047,R01,2026-08-23 5:54,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00358,REQ0047,R03,2026-08-22 12:43,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00359,REQ0340,R03,2026-08-22 7:17,4,4,5,None,Meets all three evaluation criteria.
+EV00360,REQ0340,R04,2026-08-23 20:13,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00361,REQ0228,R04,2026-08-23 2:53,2,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00362,REQ0228,R02,2026-08-23 23:12,3,1,2,Missing Information,Review needed: completeness below threshold.
+EV00363,REQ0024,R04,2026-08-23 17:12,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00364,REQ0024,R03,2026-08-24 10:13,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00365,REQ0383,R03,2026-08-23 10:20,5,3,5,Missing Information,Review needed: completeness below threshold.
+EV00366,REQ0383,R02,2026-08-24 7:26,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00367,REQ0027,R04,2026-08-24 8:12,5,4,4,None,Meets all three evaluation criteria.
+EV00368,REQ0027,R02,2026-08-23 22:05,4,4,4,None,Meets all three evaluation criteria.
+EV00369,REQ0069,R01,2026-08-25 2:44,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00370,REQ0069,R04,2026-08-25 4:29,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00371,REQ0320,R02,2026-08-24 6:20,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00372,REQ0320,R01,2026-08-24 21:48,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00373,REQ0087,R04,2026-08-25 21:51,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00374,REQ0087,R01,2026-08-25 17:06,4,4,4,None,Meets all three evaluation criteria.
+EV00375,REQ0396,R04,2026-08-25 15:02,5,5,5,None,Meets all three evaluation criteria.
+EV00376,REQ0396,R02,2026-08-26 1:20,5,5,5,None,Meets all three evaluation criteria.
+EV00377,REQ0049,R02,2026-08-25 14:44,4,4,4,None,Meets all three evaluation criteria.
+EV00378,REQ0049,R01,2026-08-26 7:28,3,5,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00379,REQ0099,R02,2026-08-25 13:01,4,4,4,None,Meets all three evaluation criteria.
+EV00380,REQ0099,R01,2026-08-25 9:39,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00381,REQ0358,R01,2026-08-25 2:33,1,1,1,Guideline Violation,Review needed: guideline below threshold.
+EV00382,REQ0358,R03,2026-08-26 20:16,1,1,1,Guideline Violation,Review needed: guideline below threshold.
+EV00383,REQ0242,R03,2026-08-26 1:34,4,2,4,Missing Information,Review needed: completeness below threshold.
+EV00384,REQ0242,R04,2026-08-26 13:24,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00385,REQ0323,R01,2026-08-26 20:07,4,4,4,None,Meets all three evaluation criteria.
+EV00386,REQ0323,R02,2026-08-26 12:55,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00387,REQ0056,R02,2026-08-25 20:59,4,4,4,None,Meets all three evaluation criteria.
+EV00388,REQ0056,R01,2026-08-26 5:13,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00389,REQ0215,R04,2026-08-25 23:39,4,5,5,None,Meets all three evaluation criteria.
+EV00390,REQ0215,R02,2026-08-26 6:55,5,5,5,None,Meets all three evaluation criteria.
+EV00391,REQ0059,R01,2026-08-28 5:46,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00392,REQ0059,R04,2026-08-26 10:19,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00393,REQ0012,R04,2026-08-28 5:05,4,5,4,None,Meets all three evaluation criteria.
+EV00394,REQ0012,R02,2026-08-27 19:40,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00395,REQ0338,R04,2026-08-28 19:07,4,4,4,None,Meets all three evaluation criteria.
+EV00396,REQ0338,R01,2026-08-29 3:04,5,4,4,None,Meets all three evaluation criteria.
+EV00397,REQ0385,R01,2026-08-28 3:45,5,5,4,None,Meets all three evaluation criteria.
+EV00398,REQ0385,R04,2026-08-28 19:51,4,4,4,None,Meets all three evaluation criteria.
+EV00399,REQ0130,R01,2026-08-28 23:52,5,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00400,REQ0130,R03,2026-08-28 12:12,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00401,REQ0184,R04,2026-08-29 18:44,5,4,4,None,Meets all three evaluation criteria.
+EV00402,REQ0184,R03,2026-08-29 18:42,4,4,4,None,Meets all three evaluation criteria.
+EV00403,REQ0235,R02,2026-08-29 12:45,4,4,4,None,Meets all three evaluation criteria.
+EV00404,REQ0235,R03,2026-08-29 0:57,4,4,4,None,Meets all three evaluation criteria.
+EV00405,REQ0001,R01,2026-08-29 8:12,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00406,REQ0001,R02,2026-08-28 21:32,5,4,4,None,Meets all three evaluation criteria.
+EV00407,REQ0156,R01,2026-08-29 20:03,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00408,REQ0156,R02,2026-08-29 19:43,1,1,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00409,REQ0307,R04,2026-09-01 1:01,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00410,REQ0307,R02,2026-08-30 6:41,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00411,REQ0195,R03,2026-08-31 8:17,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00412,REQ0195,R02,2026-08-30 16:54,4,4,4,None,Meets all three evaluation criteria.
+EV00413,REQ0038,R02,2026-08-31 10:11,4,5,5,None,Meets all three evaluation criteria.
+EV00414,REQ0038,R01,2026-09-01 16:25,5,5,5,None,Meets all three evaluation criteria.
+EV00415,REQ0238,R03,2026-08-31 19:02,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00416,REQ0238,R04,2026-09-02 10:36,2,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00417,REQ0185,R02,2026-09-02 18:03,4,4,5,None,Meets all three evaluation criteria.
+EV00418,REQ0185,R01,2026-09-03 11:42,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00419,REQ0230,R01,2026-09-03 20:59,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00420,REQ0230,R02,2026-09-03 18:55,4,4,5,None,Meets all three evaluation criteria.
+EV00421,REQ0276,R02,2026-09-03 4:46,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00422,REQ0276,R04,2026-09-03 19:08,4,5,4,None,Meets all three evaluation criteria.
+EV00423,REQ0066,R04,2026-09-03 15:01,5,5,5,None,Meets all three evaluation criteria.
+EV00424,REQ0066,R02,2026-09-02 5:00,4,4,5,None,Meets all three evaluation criteria.
+EV00425,REQ0085,R01,2026-09-02 23:17,4,4,4,None,Meets all three evaluation criteria.
+EV00426,REQ0085,R04,2026-09-03 12:52,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00427,REQ0196,R04,2026-09-04 3:54,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00428,REQ0196,R01,2026-09-03 7:12,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00429,REQ0018,R04,2026-09-02 19:32,3,5,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00430,REQ0018,R01,2026-09-02 17:24,4,4,4,None,Meets all three evaluation criteria.
+EV00431,REQ0203,R02,2026-09-05 16:33,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00432,REQ0203,R03,2026-09-05 9:23,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00433,REQ0128,R02,2026-09-03 21:54,4,4,5,None,Meets all three evaluation criteria.
+EV00434,REQ0128,R03,2026-09-04 1:32,4,5,5,None,Meets all three evaluation criteria.
+EV00435,REQ0135,R04,2026-09-04 9:23,4,4,5,None,Meets all three evaluation criteria.
+EV00436,REQ0135,R02,2026-09-05 3:38,5,5,4,None,Meets all three evaluation criteria.
+EV00437,REQ0367,R02,2026-09-06 6:14,4,4,4,None,Meets all three evaluation criteria.
+EV00438,REQ0367,R04,2026-09-05 0:17,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00439,REQ0022,R04,2026-09-05 8:14,3,2,2,Missing Information,Review needed: completeness below threshold.
+EV00440,REQ0022,R03,2026-09-05 18:31,1,1,1,Missing Information,Review needed: completeness below threshold.
+EV00441,REQ0178,R02,2026-09-05 6:10,1,1,3,Missing Information,Review needed: completeness below threshold.
+EV00442,REQ0178,R01,2026-09-05 8:34,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00443,REQ0127,R01,2026-09-06 22:06,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00444,REQ0127,R04,2026-09-06 10:55,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00445,REQ0207,R03,2026-09-06 11:01,5,5,4,None,Meets all three evaluation criteria.
+EV00446,REQ0207,R02,2026-09-06 22:05,4,5,5,None,Meets all three evaluation criteria.
+EV00447,REQ0285,R04,2026-09-06 2:32,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00448,REQ0285,R02,2026-09-05 20:13,5,4,4,None,Meets all three evaluation criteria.
+EV00449,REQ0062,R04,2026-09-07 12:50,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00450,REQ0062,R03,2026-09-07 7:08,1,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00451,REQ0312,R02,2026-09-08 13:17,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00452,REQ0312,R01,2026-09-07 17:25,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00453,REQ0186,R02,2026-09-07 11:32,5,5,5,None,Meets all three evaluation criteria.
+EV00454,REQ0186,R01,2026-09-08 13:14,4,5,5,None,Meets all three evaluation criteria.
+EV00455,REQ0286,R02,2026-09-08 6:18,2,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00456,REQ0286,R03,2026-09-08 1:06,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00457,REQ0281,R04,2026-09-06 23:17,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00458,REQ0281,R02,2026-09-08 19:29,2,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00459,REQ0299,R03,2026-09-08 9:48,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00460,REQ0299,R04,2026-09-07 22:09,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00461,REQ0116,R03,2026-09-08 18:24,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00462,REQ0116,R04,2026-09-08 22:08,5,4,5,None,Meets all three evaluation criteria.
+EV00463,REQ0025,R03,2026-09-08 21:35,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00464,REQ0025,R02,2026-09-09 12:20,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00465,REQ0343,R02,2026-09-09 14:17,5,5,5,None,Meets all three evaluation criteria.
+EV00466,REQ0343,R04,2026-09-09 15:47,4,4,4,None,Meets all three evaluation criteria.
+EV00467,REQ0344,R01,2026-09-10 4:20,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00468,REQ0344,R03,2026-09-08 23:51,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00469,REQ0124,R02,2026-09-09 1:07,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00470,REQ0124,R01,2026-09-09 18:58,4,5,4,None,Meets all three evaluation criteria.
+EV00471,REQ0227,R04,2026-09-10 8:40,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00472,REQ0227,R02,2026-09-10 2:36,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00473,REQ0273,R01,2026-09-10 0:32,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00474,REQ0273,R04,2026-09-10 19:16,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00475,REQ0010,R04,2026-09-10 3:21,5,4,5,None,Meets all three evaluation criteria.
+EV00476,REQ0010,R03,2026-09-10 20:22,5,5,5,None,Meets all three evaluation criteria.
+EV00477,REQ0399,R03,2026-09-09 13:15,4,5,4,None,Meets all three evaluation criteria.
+EV00478,REQ0399,R02,2026-09-11 3:17,5,4,5,None,Meets all three evaluation criteria.
+EV00479,REQ0257,R03,2026-09-10 6:55,5,5,4,None,Meets all three evaluation criteria.
+EV00480,REQ0257,R01,2026-09-09 17:24,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00481,REQ0244,R01,2026-09-10 8:58,4,3,5,Missing Information,Review needed: completeness below threshold.
+EV00482,REQ0244,R02,2026-09-10 14:44,5,5,4,None,Meets all three evaluation criteria.
+EV00483,REQ0132,R01,2026-09-11 5:50,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00484,REQ0132,R04,2026-09-11 20:30,3,2,4,Missing Information,Review needed: completeness below threshold.
+EV00485,REQ0181,R04,2026-09-10 5:42,4,4,4,None,Meets all three evaluation criteria.
+EV00486,REQ0181,R03,2026-09-11 0:51,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00487,REQ0353,R02,2026-09-11 0:21,5,5,4,None,Meets all three evaluation criteria.
+EV00488,REQ0353,R03,2026-09-11 0:55,5,5,5,None,Meets all three evaluation criteria.
+EV00489,REQ0318,R01,2026-09-10 21:29,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00490,REQ0318,R03,2026-09-11 19:05,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00491,REQ0333,R02,2026-09-11 4:18,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00492,REQ0333,R04,2026-09-12 9:12,2,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00493,REQ0302,R04,2026-09-12 21:57,5,5,5,None,Meets all three evaluation criteria.
+EV00494,REQ0302,R01,2026-09-12 6:44,5,4,4,None,Meets all three evaluation criteria.
+EV00495,REQ0356,R04,2026-09-12 12:05,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00496,REQ0356,R03,2026-09-11 16:28,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00497,REQ0164,R03,2026-09-11 11:33,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00498,REQ0164,R01,2026-09-11 17:42,5,4,5,None,Meets all three evaluation criteria.
+EV00499,REQ0236,R03,2026-09-11 19:55,5,5,5,None,Meets all three evaluation criteria.
+EV00500,REQ0236,R01,2026-09-13 16:58,5,5,4,None,Meets all three evaluation criteria.
+EV00501,REQ0220,R01,2026-09-14 6:10,5,5,5,None,Meets all three evaluation criteria.
+EV00502,REQ0220,R04,2026-09-14 9:51,5,5,4,None,Meets all three evaluation criteria.
+EV00503,REQ0034,R04,2026-09-13 18:12,5,4,5,None,Meets all three evaluation criteria.
+EV00504,REQ0034,R02,2026-09-13 16:45,5,5,5,None,Meets all three evaluation criteria.
+EV00505,REQ0072,R03,2026-09-14 8:04,4,4,5,None,Meets all three evaluation criteria.
+EV00506,REQ0072,R01,2026-09-12 17:54,4,4,5,None,Meets all three evaluation criteria.
+EV00507,REQ0258,R01,2026-09-13 14:02,5,4,5,None,Meets all three evaluation criteria.
+EV00508,REQ0258,R04,2026-09-13 21:50,5,5,5,None,Meets all three evaluation criteria.
+EV00509,REQ0300,R04,2026-09-14 12:43,5,5,4,None,Meets all three evaluation criteria.
+EV00510,REQ0300,R01,2026-09-14 19:59,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00511,REQ0036,R04,2026-09-13 16:14,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00512,REQ0036,R03,2026-09-13 10:05,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00513,REQ0290,R01,2026-09-14 4:54,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00514,REQ0290,R04,2026-09-14 16:05,4,2,3,Missing Information,Review needed: completeness below threshold.
+EV00515,REQ0161,R03,2026-09-15 8:04,5,5,4,None,Meets all three evaluation criteria.
+EV00516,REQ0161,R04,2026-09-15 1:05,5,5,5,None,Meets all three evaluation criteria.
+EV00517,REQ0050,R03,2026-09-15 13:24,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00518,REQ0050,R01,2026-09-15 8:29,2,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00519,REQ0229,R02,2026-09-15 0:53,5,5,5,None,Meets all three evaluation criteria.
+EV00520,REQ0229,R01,2026-09-15 13:34,5,5,5,None,Meets all three evaluation criteria.
+EV00521,REQ0305,R03,2026-09-15 10:11,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00522,REQ0305,R04,2026-09-15 14:17,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00523,REQ0295,R04,2026-09-16 15:47,5,4,4,None,Meets all three evaluation criteria.
+EV00524,REQ0295,R02,2026-09-15 8:02,4,5,5,None,Meets all three evaluation criteria.
+EV00525,REQ0335,R01,2026-09-15 23:03,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00526,REQ0335,R02,2026-09-16 1:03,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00527,REQ0155,R04,2026-09-15 23:22,5,4,4,None,Meets all three evaluation criteria.
+EV00528,REQ0155,R01,2026-09-16 9:02,5,5,5,None,Meets all three evaluation criteria.
+EV00529,REQ0063,R01,2026-09-16 17:54,4,5,5,None,Meets all three evaluation criteria.
+EV00530,REQ0063,R02,2026-09-15 12:14,5,5,5,None,Meets all three evaluation criteria.
+EV00531,REQ0231,R01,2026-09-16 22:48,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00532,REQ0231,R02,2026-09-16 18:15,4,4,5,None,Meets all three evaluation criteria.
+EV00533,REQ0296,R04,2026-09-16 11:16,1,1,1,Missing Information,Review needed: completeness below threshold.
+EV00534,REQ0296,R03,2026-09-16 22:59,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00535,REQ0083,R04,2026-09-16 18:55,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00536,REQ0083,R01,2026-09-16 16:59,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00537,REQ0148,R03,2026-09-16 22:34,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00538,REQ0148,R02,2026-09-17 9:32,4,4,4,None,Meets all three evaluation criteria.
+EV00539,REQ0293,R04,2026-09-17 16:25,4,4,4,None,Meets all three evaluation criteria.
+EV00540,REQ0293,R03,2026-09-16 19:58,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00541,REQ0326,R01,2026-09-18 13:04,5,5,4,None,Meets all three evaluation criteria.
+EV00542,REQ0326,R03,2026-09-17 21:12,4,5,5,None,Meets all three evaluation criteria.
+EV00543,REQ0092,R03,2026-09-19 2:07,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00544,REQ0092,R02,2026-09-18 8:57,4,4,5,None,Meets all three evaluation criteria.
+EV00545,REQ0115,R04,2026-09-18 12:49,5,4,4,None,Meets all three evaluation criteria.
+EV00546,REQ0115,R02,2026-09-18 18:06,5,3,4,Missing Information,Review needed: completeness below threshold.
+EV00547,REQ0213,R03,2026-09-18 15:35,4,4,4,None,Meets all three evaluation criteria.
+EV00548,REQ0213,R02,2026-09-19 12:14,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00549,REQ0004,R02,2026-09-18 22:31,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00550,REQ0004,R01,2026-09-18 5:36,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00551,REQ0151,R04,2026-09-19 1:40,5,4,5,None,Meets all three evaluation criteria.
+EV00552,REQ0151,R03,2026-09-20 10:43,5,4,4,None,Meets all three evaluation criteria.
+EV00553,REQ0170,R01,2026-09-20 5:52,5,5,5,None,Meets all three evaluation criteria.
+EV00554,REQ0170,R03,2026-09-20 14:19,5,5,5,None,Meets all three evaluation criteria.
+EV00555,REQ0378,R01,2026-09-21 2:25,5,5,5,None,Meets all three evaluation criteria.
+EV00556,REQ0378,R02,2026-09-20 8:00,5,4,4,None,Meets all three evaluation criteria.
+EV00557,REQ0118,R04,2026-09-20 14:47,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00558,REQ0118,R01,2026-09-20 8:33,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00559,REQ0210,R03,2026-09-21 1:51,2,1,3,Missing Information,Review needed: completeness below threshold.
+EV00560,REQ0210,R02,2026-09-20 7:38,2,1,3,Missing Information,Review needed: completeness below threshold.
+EV00561,REQ0283,R01,2026-09-20 22:27,5,5,5,None,Meets all three evaluation criteria.
+EV00562,REQ0283,R04,2026-09-20 10:09,4,5,5,None,Meets all three evaluation criteria.
+EV00563,REQ0319,R04,2026-09-20 22:42,4,4,5,None,Meets all three evaluation criteria.
+EV00564,REQ0319,R01,2026-09-22 8:34,5,5,4,None,Meets all three evaluation criteria.
+EV00565,REQ0391,R04,2026-09-22 3:09,5,5,4,None,Meets all three evaluation criteria.
+EV00566,REQ0391,R02,2026-09-21 15:19,4,5,5,None,Meets all three evaluation criteria.
+EV00567,REQ0031,R01,2026-09-23 0:24,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00568,REQ0031,R02,2026-09-21 15:13,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00569,REQ0193,R02,2026-09-23 12:57,5,5,5,None,Meets all three evaluation criteria.
+EV00570,REQ0193,R03,2026-09-23 2:48,4,5,5,None,Meets all three evaluation criteria.
+EV00571,REQ0086,R04,2026-09-23 14:11,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00572,REQ0086,R01,2026-09-23 12:35,3,2,4,Missing Information,Review needed: completeness below threshold.
+EV00573,REQ0152,R03,2026-09-24 16:05,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00574,REQ0152,R04,2026-09-23 9:44,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00575,REQ0057,R03,2026-09-23 17:11,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00576,REQ0057,R02,2026-09-24 4:40,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00577,REQ0306,R03,2026-09-23 16:13,5,5,5,None,Meets all three evaluation criteria.
+EV00578,REQ0306,R04,2026-09-24 10:13,5,4,5,None,Meets all three evaluation criteria.
+EV00579,REQ0327,R04,2026-09-23 13:23,4,4,4,None,Meets all three evaluation criteria.
+EV00580,REQ0327,R03,2026-09-25 3:55,4,4,4,None,Meets all three evaluation criteria.
+EV00581,REQ0386,R04,2026-09-25 6:15,2,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00582,REQ0386,R01,2026-09-24 14:03,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00583,REQ0187,R04,2026-09-25 5:24,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00584,REQ0187,R03,2026-09-25 16:06,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00585,REQ0017,R03,2026-09-26 14:57,5,5,5,None,Meets all three evaluation criteria.
+EV00586,REQ0017,R04,2026-09-25 9:54,5,5,5,None,Meets all three evaluation criteria.
+EV00587,REQ0366,R02,2026-09-26 14:18,5,5,4,None,Meets all three evaluation criteria.
+EV00588,REQ0366,R04,2026-09-25 10:32,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00589,REQ0134,R01,2026-09-26 7:14,3,3,4,Missing Information,Review needed: completeness below threshold.
+EV00590,REQ0134,R02,2026-09-26 15:38,5,4,5,None,Meets all three evaluation criteria.
+EV00591,REQ0254,R04,2026-09-26 10:33,5,5,5,None,Meets all three evaluation criteria.
+EV00592,REQ0254,R03,2026-09-26 10:59,5,5,5,None,Meets all three evaluation criteria.
+EV00593,REQ0313,R02,2026-09-26 4:46,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00594,REQ0313,R03,2026-09-26 0:05,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00595,REQ0160,R04,2026-09-27 17:26,1,2,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00596,REQ0160,R03,2026-09-27 15:19,3,3,1,Guideline Violation,Review needed: guideline below threshold.
+EV00597,REQ0262,R04,2026-09-26 13:49,5,5,4,None,Meets all three evaluation criteria.
+EV00598,REQ0262,R01,2026-09-27 2:00,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00599,REQ0362,R02,2026-09-27 8:47,4,4,4,None,Meets all three evaluation criteria.
+EV00600,REQ0362,R04,2026-09-27 1:39,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00601,REQ0188,R03,2026-09-26 20:39,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00602,REQ0188,R02,2026-09-27 10:02,4,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00603,REQ0147,R04,2026-09-27 23:59,4,4,4,None,Meets all three evaluation criteria.
+EV00604,REQ0147,R02,2026-09-27 4:02,5,4,4,None,Meets all three evaluation criteria.
+EV00605,REQ0109,R03,2026-09-29 15:04,1,1,2,Missing Information,Review needed: completeness below threshold.
+EV00606,REQ0109,R02,2026-09-29 17:34,2,2,2,Missing Information,Review needed: completeness below threshold.
+EV00607,REQ0070,R02,2026-09-29 3:01,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00608,REQ0070,R03,2026-09-28 14:29,4,2,4,Missing Information,Review needed: completeness below threshold.
+EV00609,REQ0179,R02,2026-09-29 16:08,5,4,5,None,Meets all three evaluation criteria.
+EV00610,REQ0179,R04,2026-09-29 15:14,5,5,5,None,Meets all three evaluation criteria.
+EV00611,REQ0359,R01,2026-09-29 9:16,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00612,REQ0359,R03,2026-09-29 23:28,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00613,REQ0381,R02,2026-09-30 11:23,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00614,REQ0381,R04,2026-09-29 3:10,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00615,REQ0247,R04,2026-09-29 19:28,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00616,REQ0247,R03,2026-09-30 12:19,5,5,4,None,Meets all three evaluation criteria.
+EV00617,REQ0079,R04,2026-09-29 11:42,4,4,4,None,Meets all three evaluation criteria.
+EV00618,REQ0079,R03,2026-10-01 3:20,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00619,REQ0322,R02,2026-10-01 6:08,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00620,REQ0322,R03,2026-09-30 14:40,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00621,REQ0205,R01,2026-10-01 16:25,5,5,4,None,Meets all three evaluation criteria.
+EV00622,REQ0205,R02,2026-10-01 18:08,5,4,5,None,Meets all three evaluation criteria.
+EV00623,REQ0264,R01,2026-10-02 22:42,4,4,4,None,Meets all three evaluation criteria.
+EV00624,REQ0264,R03,2026-10-03 6:10,4,4,4,None,Meets all three evaluation criteria.
+EV00625,REQ0387,R03,2026-10-01 23:45,5,5,5,None,Meets all three evaluation criteria.
+EV00626,REQ0387,R02,2026-10-03 17:37,5,5,5,None,Meets all three evaluation criteria.
+EV00627,REQ0144,R03,2026-10-02 11:56,4,4,4,None,Meets all three evaluation criteria.
+EV00628,REQ0144,R04,2026-10-03 10:32,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00629,REQ0082,R03,2026-10-04 16:17,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00630,REQ0082,R01,2026-10-03 10:44,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00631,REQ0015,R04,2026-10-03 19:33,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00632,REQ0015,R01,2026-10-04 11:57,5,3,3,Missing Information,Review needed: completeness below threshold.
+EV00633,REQ0233,R03,2026-10-04 11:58,5,4,4,None,Meets all three evaluation criteria.
+EV00634,REQ0233,R01,2026-10-05 14:14,5,5,5,None,Meets all three evaluation criteria.
+EV00635,REQ0105,R01,2026-10-05 2:39,4,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00636,REQ0105,R02,2026-10-04 3:15,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00637,REQ0021,R04,2026-10-04 5:40,4,4,5,None,Meets all three evaluation criteria.
+EV00638,REQ0021,R02,2026-10-05 21:35,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00639,REQ0041,R03,2026-10-05 22:01,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00640,REQ0041,R04,2026-10-04 8:33,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00641,REQ0204,R04,2026-10-05 23:32,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00642,REQ0204,R03,2026-10-06 12:06,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00643,REQ0365,R04,2026-10-06 17:54,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00644,REQ0365,R01,2026-10-07 8:53,4,4,4,None,Meets all three evaluation criteria.
+EV00645,REQ0078,R01,2026-10-06 11:46,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00646,REQ0078,R04,2026-10-06 6:25,4,2,3,Missing Information,Review needed: completeness below threshold.
+EV00647,REQ0219,R01,2026-10-08 2:34,2,1,2,Missing Information,Review needed: completeness below threshold.
+EV00648,REQ0219,R04,2026-10-06 3:03,2,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00649,REQ0325,R01,2026-10-08 3:10,4,4,4,None,Meets all three evaluation criteria.
+EV00650,REQ0325,R02,2026-10-08 1:28,5,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00651,REQ0252,R02,2026-10-06 19:05,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00652,REQ0252,R04,2026-10-08 13:52,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00653,REQ0043,R01,2026-10-08 11:01,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00654,REQ0043,R02,2026-10-07 19:15,4,4,4,None,Meets all three evaluation criteria.
+EV00655,REQ0206,R02,2026-10-08 10:40,4,5,5,None,Meets all three evaluation criteria.
+EV00656,REQ0206,R03,2026-10-08 7:45,5,5,4,None,Meets all three evaluation criteria.
+EV00657,REQ0138,R04,2026-10-07 10:47,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00658,REQ0138,R02,2026-10-07 15:19,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00659,REQ0277,R03,2026-10-08 16:34,5,4,5,None,Meets all three evaluation criteria.
+EV00660,REQ0277,R02,2026-10-08 9:12,5,5,5,None,Meets all three evaluation criteria.
+EV00661,REQ0208,R03,2026-10-09 20:36,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00662,REQ0208,R01,2026-10-10 0:37,4,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00663,REQ0342,R03,2026-10-08 21:10,4,4,5,None,Meets all three evaluation criteria.
+EV00664,REQ0342,R02,2026-10-08 14:34,4,4,4,None,Meets all three evaluation criteria.
+EV00665,REQ0280,R01,2026-10-08 19:37,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00666,REQ0280,R02,2026-10-08 12:23,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00667,REQ0332,R01,2026-10-09 20:10,2,2,3,Missing Information,Review needed: completeness below threshold.
+EV00668,REQ0332,R04,2026-10-09 20:59,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00669,REQ0101,R02,2026-10-09 18:40,5,5,4,None,Meets all three evaluation criteria.
+EV00670,REQ0101,R04,2026-10-09 14:56,5,5,5,None,Meets all three evaluation criteria.
+EV00671,REQ0176,R04,2026-10-10 14:37,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00672,REQ0176,R02,2026-10-11 2:16,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00673,REQ0379,R04,2026-10-11 22:56,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00674,REQ0379,R03,2026-10-11 14:50,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00675,REQ0282,R03,2026-10-11 21:32,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00676,REQ0282,R04,2026-10-12 1:21,3,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00677,REQ0016,R04,2026-10-12 16:07,4,5,5,None,Meets all three evaluation criteria.
+EV00678,REQ0016,R01,2026-10-12 8:09,4,5,4,None,Meets all three evaluation criteria.
+EV00679,REQ0288,R03,2026-10-12 9:49,4,5,4,None,Meets all three evaluation criteria.
+EV00680,REQ0288,R01,2026-10-11 18:22,4,4,5,None,Meets all three evaluation criteria.
+EV00681,REQ0003,R01,2026-10-11 8:41,5,5,4,None,Meets all three evaluation criteria.
+EV00682,REQ0003,R02,2026-10-12 23:14,5,5,5,None,Meets all three evaluation criteria.
+EV00683,REQ0140,R02,2026-10-11 21:47,3,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00684,REQ0140,R01,2026-10-12 1:20,3,2,1,Guideline Violation,Review needed: guideline below threshold.
+EV00685,REQ0368,R04,2026-10-13 14:02,5,4,4,None,Meets all three evaluation criteria.
+EV00686,REQ0368,R03,2026-10-13 19:26,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00687,REQ0314,R04,2026-10-12 7:30,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00688,REQ0314,R02,2026-10-12 14:29,4,4,4,None,Meets all three evaluation criteria.
+EV00689,REQ0159,R01,2026-10-13 11:04,4,4,5,None,Meets all three evaluation criteria.
+EV00690,REQ0159,R04,2026-10-13 21:27,5,5,5,None,Meets all three evaluation criteria.
+EV00691,REQ0375,R03,2026-10-13 1:59,4,5,4,None,Meets all three evaluation criteria.
+EV00692,REQ0375,R02,2026-10-14 9:12,3,4,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00693,REQ0324,R02,2026-10-13 14:38,5,5,4,None,Meets all three evaluation criteria.
+EV00694,REQ0324,R03,2026-10-13 20:46,5,4,5,None,Meets all three evaluation criteria.
+EV00695,REQ0248,R04,2026-10-15 12:37,4,4,5,None,Meets all three evaluation criteria.
+EV00696,REQ0248,R02,2026-10-14 7:32,5,5,5,None,Meets all three evaluation criteria.
+EV00697,REQ0162,R04,2026-10-15 3:31,5,5,5,None,Meets all three evaluation criteria.
+EV00698,REQ0162,R01,2026-10-16 5:23,5,5,5,None,Meets all three evaluation criteria.
+EV00699,REQ0352,R04,2026-10-15 13:45,4,4,4,None,Meets all three evaluation criteria.
+EV00700,REQ0352,R03,2026-10-15 21:40,3,5,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00701,REQ0005,R03,2026-10-14 19:55,3,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00702,REQ0005,R04,2026-10-15 9:59,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00703,REQ0119,R01,2026-10-16 14:16,5,5,5,None,Meets all three evaluation criteria.
+EV00704,REQ0119,R03,2026-10-15 2:51,5,4,4,None,Meets all three evaluation criteria.
+EV00705,REQ0384,R01,2026-10-16 17:49,5,5,5,None,Meets all three evaluation criteria.
+EV00706,REQ0384,R03,2026-10-15 13:06,4,5,5,None,Meets all three evaluation criteria.
+EV00707,REQ0294,R03,2026-10-15 17:52,3,3,5,Missing Information,Review needed: completeness below threshold.
+EV00708,REQ0294,R04,2026-10-15 15:32,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00709,REQ0218,R03,2026-10-15 16:05,4,2,3,Missing Information,Review needed: completeness below threshold.
+EV00710,REQ0218,R04,2026-10-16 17:42,2,3,2,Incorrect Information,Review needed: accuracy below threshold.
+EV00711,REQ0272,R04,2026-10-16 17:12,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00712,REQ0272,R02,2026-10-16 19:51,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00713,REQ0357,R02,2026-10-16 20:27,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00714,REQ0357,R01,2026-10-15 12:05,4,5,4,None,Meets all three evaluation criteria.
+EV00715,REQ0026,R04,2026-10-17 8:26,5,5,5,None,Meets all three evaluation criteria.
+EV00716,REQ0026,R03,2026-10-16 16:07,5,4,5,None,Meets all three evaluation criteria.
+EV00717,REQ0165,R04,2026-10-16 23:15,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00718,REQ0165,R01,2026-10-16 3:39,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00719,REQ0125,R02,2026-10-17 18:14,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00720,REQ0125,R01,2026-10-17 5:54,3,3,2,Guideline Violation,Review needed: guideline below threshold.
+EV00721,REQ0007,R03,2026-10-18 6:25,5,5,5,None,Meets all three evaluation criteria.
+EV00722,REQ0007,R01,2026-10-18 9:15,5,5,4,None,Meets all three evaluation criteria.
+EV00723,REQ0150,R03,2026-10-17 20:04,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00724,REQ0150,R01,2026-10-17 23:47,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00725,REQ0171,R03,2026-10-17 0:45,5,4,5,None,Meets all three evaluation criteria.
+EV00726,REQ0171,R01,2026-10-18 17:43,5,5,5,None,Meets all three evaluation criteria.
+EV00727,REQ0217,R04,2026-10-19 5:59,4,5,5,None,Meets all three evaluation criteria.
+EV00728,REQ0217,R01,2026-10-18 9:15,5,5,4,None,Meets all three evaluation criteria.
+EV00729,REQ0279,R03,2026-10-17 15:34,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00730,REQ0279,R02,2026-10-18 2:04,2,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00731,REQ0304,R01,2026-10-18 16:59,4,5,5,None,Meets all three evaluation criteria.
+EV00732,REQ0304,R04,2026-10-19 9:45,5,5,5,None,Meets all three evaluation criteria.
+EV00733,REQ0198,R03,2026-10-19 11:19,5,5,5,None,Meets all three evaluation criteria.
+EV00734,REQ0198,R02,2026-10-19 4:34,4,5,4,None,Meets all three evaluation criteria.
+EV00735,REQ0183,R04,2026-10-20 11:29,2,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00736,REQ0183,R01,2026-10-19 16:37,2,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00737,REQ0256,R04,2026-10-20 9:05,5,4,5,None,Meets all three evaluation criteria.
+EV00738,REQ0256,R02,2026-10-20 7:01,4,5,5,None,Meets all three evaluation criteria.
+EV00739,REQ0351,R04,2026-10-19 23:34,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00740,REQ0351,R03,2026-10-19 23:04,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00741,REQ0395,R03,2026-10-20 17:30,3,2,3,Missing Information,Review needed: completeness below threshold.
+EV00742,REQ0395,R04,2026-10-21 1:47,3,4,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00743,REQ0060,R03,2026-10-21 6:48,4,2,2,Missing Information,Review needed: completeness below threshold.
+EV00744,REQ0060,R01,2026-10-19 20:24,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00745,REQ0355,R04,2026-10-20 5:13,5,4,5,None,Meets all three evaluation criteria.
+EV00746,REQ0355,R03,2026-10-20 1:03,4,5,4,None,Meets all three evaluation criteria.
+EV00747,REQ0317,R02,2026-10-22 1:31,5,5,5,None,Meets all three evaluation criteria.
+EV00748,REQ0317,R01,2026-10-21 9:21,5,5,4,None,Meets all three evaluation criteria.
+EV00749,REQ0350,R01,2026-10-20 17:23,4,3,3,Missing Information,Review needed: completeness below threshold.
+EV00750,REQ0350,R03,2026-10-20 14:08,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00751,REQ0380,R02,2026-10-22 15:05,5,4,5,None,Meets all three evaluation criteria.
+EV00752,REQ0380,R04,2026-10-21 18:17,4,4,4,None,Meets all three evaluation criteria.
+EV00753,REQ0400,R03,2026-10-22 4:55,5,5,5,None,Meets all three evaluation criteria.
+EV00754,REQ0400,R04,2026-10-23 5:37,5,5,5,None,Meets all three evaluation criteria.
+EV00755,REQ0337,R02,2026-10-24 6:42,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00756,REQ0337,R01,2026-10-23 8:35,3,3,3,Missing Information,Review needed: completeness below threshold.
+EV00757,REQ0076,R03,2026-10-24 4:27,5,4,5,None,Meets all three evaluation criteria.
+EV00758,REQ0076,R01,2026-10-24 2:33,5,5,5,None,Meets all three evaluation criteria.
+EV00759,REQ0023,R01,2026-10-23 21:44,3,2,2,Guideline Violation,Review needed: guideline below threshold.
+EV00760,REQ0023,R02,2026-10-24 13:29,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00761,REQ0137,R01,2026-10-23 13:37,4,4,4,None,Meets all three evaluation criteria.
+EV00762,REQ0137,R02,2026-10-24 22:43,4,4,4,None,Meets all three evaluation criteria.
+EV00763,REQ0002,R01,2026-10-23 22:21,4,5,5,None,Meets all three evaluation criteria.
+EV00764,REQ0002,R03,2026-10-25 0:26,4,4,4,None,Meets all three evaluation criteria.
+EV00765,REQ0255,R02,2026-10-24 16:48,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00766,REQ0255,R01,2026-10-24 9:49,4,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00767,REQ0110,R03,2026-10-25 5:56,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00768,REQ0110,R02,2026-10-23 21:05,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00769,REQ0284,R03,2026-10-25 2:43,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00770,REQ0284,R04,2026-10-25 19:11,5,5,3,Guideline Violation,Review needed: guideline below threshold.
+EV00771,REQ0084,R02,2026-10-24 9:20,4,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00772,REQ0084,R03,2026-10-24 12:34,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00773,REQ0052,R02,2026-10-25 6:54,4,5,4,None,Meets all three evaluation criteria.
+EV00774,REQ0052,R03,2026-10-25 14:47,3,5,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00775,REQ0297,R01,2026-10-25 11:07,5,3,5,Missing Information,Review needed: completeness below threshold.
+EV00776,REQ0297,R03,2026-10-25 13:23,4,4,3,Guideline Violation,Review needed: guideline below threshold.
+EV00777,REQ0169,R02,2026-10-25 2:07,5,4,4,None,Meets all three evaluation criteria.
+EV00778,REQ0169,R04,2026-10-25 19:06,4,4,4,None,Meets all three evaluation criteria.
+EV00779,REQ0315,R04,2026-10-27 7:07,5,5,5,None,Meets all three evaluation criteria.
+EV00780,REQ0315,R01,2026-10-26 20:06,5,5,5,None,Meets all three evaluation criteria.
+EV00781,REQ0345,R02,2026-10-26 11:23,5,5,5,None,Meets all three evaluation criteria.
+EV00782,REQ0345,R04,2026-10-26 7:56,5,4,4,None,Meets all three evaluation criteria.
+EV00783,REQ0377,R02,2026-10-27 2:24,4,5,4,None,Meets all three evaluation criteria.
+EV00784,REQ0377,R01,2026-10-26 18:06,3,3,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00785,REQ0298,R02,2026-10-27 3:36,3,4,4,Incorrect Information,Review needed: accuracy below threshold.
+EV00786,REQ0298,R04,2026-10-27 13:26,3,5,5,Incorrect Information,Review needed: accuracy below threshold.
+EV00787,REQ0192,R01,2026-10-28 9:32,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00788,REQ0192,R04,2026-10-27 2:33,4,3,4,Missing Information,Review needed: completeness below threshold.
+EV00789,REQ0058,R03,2026-10-28 20:43,3,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00790,REQ0058,R04,2026-10-27 22:04,3,3,3,Guideline Violation,Review needed: guideline below threshold.
+EV00791,REQ0073,R02,2026-10-27 9:14,2,3,3,Incorrect Information,Review needed: accuracy below threshold.
+EV00792,REQ0073,R04,2026-10-28 13:08,3,4,2,Guideline Violation,Review needed: guideline below threshold.
+EV00793,REQ0077,R03,2026-10-27 13:33,5,4,5,None,Meets all three evaluation criteria.
+EV00794,REQ0077,R01,2026-10-29 2:04,5,5,5,None,Meets all three evaluation criteria.
+EV00795,REQ0168,R02,2026-10-27 10:49,4,5,4,None,Meets all three evaluation criteria.
+EV00796,REQ0168,R03,2026-10-27 14:28,5,5,5,None,Meets all three evaluation criteria.
+EV00797,REQ0330,R04,2026-10-27 22:18,5,5,5,None,Meets all three evaluation criteria.
+EV00798,REQ0330,R01,2026-10-29 11:54,5,5,5,None,Meets all three evaluation criteria.
+EV00799,REQ0253,R02,2026-10-28 10:14,5,4,4,None,Meets all three evaluation criteria.
+EV00800,REQ0253,R04,2026-10-28 20:25,4,4,4,None,Meets all three evaluation criteria.
+EV00080,REQ0180,R03,2026-07-09 13:56,4,4,3,Guideline Violation,Review needed: guideline below threshold.
